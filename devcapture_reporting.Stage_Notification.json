@@ -1,0 +1,252 @@
+[{
+  "_id": {
+    "$oid": "678112d8354a9957ff7294d1"
+  },
+  "TicketID": "202501101336213247c5",
+  "TransUniqueId": 64,
+  "Notifications": [
+    {
+      "NotificationId": "a4a0be8e-3e61-4ec9-8216-5b7a3c31b5ab",
+      "Message": "This is the notification for you on 10-01-2025 at 13:39",
+      "NotificationDateTime": {
+        "$date": "2025-01-10T08:09:00.000Z"
+      },
+      "IsActive": true,
+      "IsRead": true,
+      "CreatedOn": {
+        "$date": "2025-01-10T12:37:16.900Z"
+      },
+      "LastModifiedOn": {
+        "$date": "2025-01-10T12:37:16.900Z"
+      }
+    },
+    {
+      "NotificationId": "6c00d57f-0e7b-4625-952d-4b5f0bd058f5",
+      "Message": "This is the notification for you on 10-01-2025 at 13:39",
+      "NotificationDateTime": {
+        "$date": "2025-01-10T08:09:00.000Z"
+      },
+      "IsActive": true,
+      "IsRead": false,
+      "CreatedOn": {
+        "$date": "2025-01-10T13:01:08.538Z"
+      },
+      "LastModifiedOn": {
+        "$date": "2025-01-10T13:01:08.538Z"
+      }
+    },
+    {
+      "NotificationId": "a63bf8ae-8284-4bc9-ac83-c30cac349274",
+      "Message": "This is the notification for you on 10-01-2025 at 18:24",
+      "NotificationDateTime": {
+        "$date": "2025-10-01T12:54:00.000Z"
+      },
+      "IsActive": true,
+      "IsRead": false,
+      "CreatedOn": {
+        "$date": "2025-01-10T12:54:15.309Z"
+      },
+      "LastModifiedOn": {
+        "$date": "2025-01-10T12:54:15.309Z"
+      }
+    },
+    {
+      "NotificationId": "588c25ee-ca48-4264-af64-4390ffe1b17d",
+      "Message": "This is the notification for you on 10-01-2025 at 13:39",
+      "NotificationDateTime": {
+        "$date": "2025-01-10T08:09:00.000Z"
+      },
+      "IsActive": true,
+      "IsRead": false,
+      "CreatedOn": {
+        "$date": "2025-01-10T13:01:33.660Z"
+      },
+      "LastModifiedOn": {
+        "$date": "2025-01-10T13:01:33.660Z"
+      }
+    },
+    {
+      "NotificationId": "b45f6321-4d28-4bf3-b622-256f51f2fe8d",
+      "Message": "This is the notification for you on 11-01-2025 at 12:28",
+      "NotificationDateTime": {
+        "$date": "2025-11-01T06:58:00.000Z"
+      },
+      "IsActive": true,
+      "IsRead": false,
+      "CreatedOn": {
+        "$date": "2025-01-11T06:58:57.059Z"
+      },
+      "LastModifiedOn": {
+        "$date": "2025-01-11T06:58:57.059Z"
+      }
+    },
+    {
+      "NotificationId": "023a12de-646e-45e6-a549-b5806de06432",
+      "Message": "This is the notification for you on 13-01-2025 at 16:00",
+      "NotificationDateTime": {
+        "$date": "2025-01-13T10:30:00.000Z"
+      },
+      "IsActive": true,
+      "IsRead": false,
+      "CreatedOn": {
+        "$date": "2025-01-13T10:23:00.010Z"
+      },
+      "LastModifiedOn": {
+        "$date": "2025-01-13T10:23:00.010Z"
+      }
+    },
+    {
+      "NotificationId": "f1433730-de5b-4ada-a9c9-98bd98666df2",
+      "Message": "This is the notification for you on 04-02-2025 at 13:05",
+      "NotificationDateTime": {
+        "$date": "2025-04-02T07:35:00.000Z"
+      },
+      "IsActive": true,
+      "IsRead": false,
+      "CreatedOn": {
+        "$date": "2025-02-04T07:35:14.302Z"
+      },
+      "LastModifiedOn": {
+        "$date": "2025-02-04T07:35:14.302Z"
+      }
+    }
+  ],
+  "StageId": 57,
+  "StageName": "Fresh Lead",
+  "UserId": "756"
+},
+{
+  "_id": {
+    "$oid": "67811ab7354a9957ff72dce6"
+  },
+  "TicketID": "2025011018314799050a",
+  "TransUniqueId": 66,
+  "Notifications": [
+    {
+      "NotificationId": "6e362671-5765-4395-88dc-909dd53ffb89",
+      "Message": "This is the notification for you on 10-01-2025 at 18:33",
+      "NotificationDateTime": {
+        "$date": "2025-10-01T13:03:00.000Z"
+      },
+      "IsActive": true,
+      "IsRead": true,
+      "CreatedOn": {
+        "$date": "2025-01-10T13:03:51.375Z"
+      },
+      "LastModifiedOn": {
+        "$date": "2025-01-10T13:03:51.375Z"
+      }
+    }
+  ],
+  "StageId": 57,
+  "StageName": "Fresh Lead",
+  "UserId": "756"
+},
+{
+  "_id": {
+    "$oid": "6784ead3354a9957ff937cdc"
+  },
+  "TicketID": "20250113155711197921",
+  "TransUniqueId": 68,
+  "Notifications": [
+    {
+      "NotificationId": "ee0e6c89-aaca-48b7-9bbd-daf7a39c20b0",
+      "Message": "This is the notification for you on 13-01-2025 at 15:58",
+      "NotificationDateTime": {
+        "$date": "2025-01-13T10:28:00.000Z"
+      },
+      "IsActive": true,
+      "IsRead": false,
+      "CreatedOn": {
+        "$date": "2025-01-13T10:28:35.578Z"
+      },
+      "LastModifiedOn": {
+        "$date": "2025-01-13T10:28:35.578Z"
+      }
+    }
+  ],
+  "StageId": 57,
+  "StageName": "Fresh Lead",
+  "UserId": "756"
+},
+{
+  "_id": {
+    "$oid": "6788a96f354a9957ffb394cd"
+  },
+  "TicketID": "202501101652376d2347",
+  "TransUniqueId": 65,
+  "Notifications": [
+    {
+      "NotificationId": "007f50fd-a272-4de8-a765-6db9e344d482",
+      "Message": "This is the notification for you on 16-01-2025 at 12:15",
+      "NotificationDateTime": {
+        "$date": "2025-01-16T06:45:00.000Z"
+      },
+      "IsActive": true,
+      "IsRead": false,
+      "CreatedOn": {
+        "$date": "2025-01-16T06:38:39.652Z"
+      },
+      "LastModifiedOn": {
+        "$date": "2025-01-16T06:38:39.652Z"
+      }
+    }
+  ],
+  "StageId": 57,
+  "StageName": "Fresh Lead",
+  "UserId": "8"
+},
+{
+  "_id": {
+    "$oid": "6788b504354a9957ffb3f9f9"
+  },
+  "TicketID": "20241230184059ba53d6",
+  "TransUniqueId": 58,
+  "Notifications": [
+    {
+      "NotificationId": "ae645588-80bf-40d5-937e-afa4c4d636cf",
+      "Message": "This is the notification for you on 16-01-2025 at 13:05",
+      "NotificationDateTime": {
+        "$date": "2025-01-16T07:35:00.000Z"
+      },
+      "IsActive": true,
+      "IsRead": false,
+      "CreatedOn": {
+        "$date": "2025-01-16T07:28:04.362Z"
+      },
+      "LastModifiedOn": {
+        "$date": "2025-01-16T07:28:04.362Z"
+      }
+    }
+  ],
+  "StageId": 57,
+  "StageName": "Fresh Lead",
+  "UserId": "8"
+},
+{
+  "_id": {
+    "$oid": "679b6550ebfd8b420fedb32c"
+  },
+  "TicketID": "20250116174043fd7d55",
+  "TransUniqueId": 61,
+  "Notifications": [
+    {
+      "NotificationId": "5d6b9541-b464-4055-bcad-ed307810fa66",
+      "Message": "This is the notification for you on 30-01-2025 at 17:10",
+      "NotificationDateTime": {
+        "$date": "2025-01-30T11:40:00.000Z"
+      },
+      "IsActive": true,
+      "IsRead": false,
+      "CreatedOn": {
+        "$date": "2025-01-30T11:41:04.472Z"
+      },
+      "LastModifiedOn": {
+        "$date": "2025-01-30T11:41:04.472Z"
+      }
+    }
+  ],
+  "StageId": 57,
+  "StageName": "Fresh Lead",
+  "UserId": "8"
+}]
