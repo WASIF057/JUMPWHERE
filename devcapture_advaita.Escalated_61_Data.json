@@ -1,0 +1,4129 @@
+[{
+  "_id": "7a2e7d64-8e3d-41bf-b4c2-c707683b1562",
+  "evaluationID": "679c56b5-c2a2-4e4b-9c12-d756ddc3d312",
+  "tansUniqueId": 60,
+  "stageID": "61",
+  "stageName": "Escalation Stage",
+  "processID": "18",
+  "subProcessID": "18",
+  "subSubProcess": "22",
+  "submittedBy": "qa1",
+  "submittedByRole": "QA",
+  "submittedDateTime": {
+    "$date": "2024-12-16T17:28:56.000Z"
+  },
+  "sectionA": {
+    "Customer's Name": "Lenka",
+    "Trans Unique Id": "60"
+  },
+  "sectionB": [
+    {
+      "Block 1": {
+        "block_name": "Block Name_1",
+        "State": "Tamil Nadu",
+        "City": "Chennai",
+        "Address": "aabb",
+        "Enquiry Date": "Dec. 11, 2024"
+      }
+    }
+  ],
+  "sectionC": [
+    {
+      "Tab 1": {
+        "structureType": "Normal",
+        "tabName": "e",
+        "tabWeightage": "",
+        "questionSetID": "222",
+        "question_answer": [
+          {
+            "questionID": "3823",
+            "question": "Enter your input",
+            "questionWeightage": "",
+            "answerID": 88731,
+            "answer": "asdasdasd",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3824",
+            "question": "Gender",
+            "questionWeightage": "",
+            "answerID": "88732",
+            "answer": "Male",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3825",
+            "question": "Accept or Reject",
+            "questionWeightage": "",
+            "answerID": "",
+            "answer": "",
+            "answerWeightage": ""
+          }
+        ]
+      }
+    }
+  ],
+  "action": [],
+  "Disposition": {
+    "dispositionType": "AUTO",
+    "processID": "18",
+    "subProcessID": "18",
+    "subSubProcess": "22",
+    "stageID": "61",
+    "question_answer": [],
+    "AssignTo": null,
+    "Ticket_Status": null,
+    "To Stage Name": "Escalation Stage"
+  },
+  "AssignToFilters": {
+    "question_answer": []
+  },
+  "recording_id": [],
+  "sms_status": "",
+  "whatsapp_status": "",
+  "email_status": "",
+  "Audit_Started_On": {
+    "$date": "2024-12-16T17:28:44.650Z"
+  },
+  "AllocationMethod": "Normal Audit",
+  "Scheduler": {
+    "ScheduleTo": "",
+    "Filters": []
+  },
+  "ScheduleDate": "",
+  "ScheduleStartTime": "",
+  "ScheduleEndTime": "",
+  "ScheduleReason": "string",
+  "ClickToCall": {},
+  "GSMGateway": {},
+  "CloudPhone": {},
+  "Latitude": "",
+  "Longitude": "",
+  "AutoSMS": [],
+  "TicketId": "202412161725186a653c",
+  "partialSaveId": "None",
+  "domainScoreDetails": {},
+  "Fatal_Status": false,
+  "scoreDetails": {
+    "ScorableValue": "0",
+    "ScoredValue": "0",
+    "AuditScore": "0"
+  },
+  "submittedrolid": 3,
+  "Audit_Details": {
+    "Audit_Created_By": "qa1",
+    "Sample_To": "QA",
+    "Audit_Started_On": {
+      "$date": "2024-12-16T17:28:44.650Z"
+    },
+    "Audit_Created_On": {
+      "$date": "2024-12-16T17:28:56.000Z"
+    },
+    "Audit_Evaluation_Duration": "00:00:11",
+    "DeletedStatus": false,
+    "Deleted_By": "",
+    "Deleted_On": "",
+    "level1_submittedBy": "qa1",
+    "level1_submittedRole": "QA",
+    "RoleMapping": {
+      "QA": "QA1",
+      "TEAM LEAD": "TEAM_LEAD_USER"
+    },
+    "PartialAuditDetails": {}
+  },
+  "isEscalationCycleComplete": false,
+  "isEscalationDone": true,
+  "dispositionBy": "",
+  "dispositionByRole": "",
+  "escalatedLevel": 1,
+  "escalationDispositionAnswerId": "-",
+  "escalationDisposition": "-",
+  "stageTransactionId": "7a2e7d64-8e3d-41bf-b4c2-c707683b1562",
+  "dataTableID": "7a2e7d64-8e3d-41bf-b4c2-c707683b1562"
+},
+{
+  "_id": "1a7396b0-3e46-4c46-a590-9fbc1e66433e",
+  "evaluationID": "679c56b5-c2a2-4e4b-9c12-d756ddc3d312",
+  "stageID": "61",
+  "stageName": "Escalation Stage",
+  "processID": "18",
+  "subProcessID": "18",
+  "subSubProcess": "22",
+  "submittedBy": "team_lead_user",
+  "submittedByRole": "Team Lead",
+  "submittedDateTime": {
+    "$date": "2024-12-16T17:31:29.000Z"
+  },
+  "sectionA": {
+    "Customer's Name": "Lenka",
+    "Trans Unique Id": "60"
+  },
+  "sectionB": [
+    {
+      "Block 1": {
+        "block_name": "Block Name_1",
+        "State": "Tamil Nadu",
+        "City": "Chennai",
+        "Address": "aabb",
+        "Enquiry Date": "Dec. 11, 2024"
+      }
+    }
+  ],
+  "sectionC": [
+    {
+      "Tab 1": {
+        "structureType": "Normal",
+        "tabName": "e",
+        "tabWeightage": "",
+        "questionSetID": "222",
+        "question_answer": [
+          {
+            "questionID": "3823",
+            "question": "Enter your input",
+            "questionWeightage": "",
+            "answerID": 88731,
+            "answer": "asdasdasd",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3824",
+            "question": "Gender",
+            "questionWeightage": "",
+            "answerID": "88732",
+            "answer": "Male",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3825",
+            "question": "Accept or Reject",
+            "questionWeightage": "",
+            "answerID": "88735",
+            "answer": "No",
+            "answerWeightage": "",
+            "is_escalated": true
+          }
+        ]
+      }
+    }
+  ],
+  "action": [],
+  "scoreDetails": {
+    "ScorableValue": "0",
+    "ScoredValue": "0",
+    "AuditScore": "0"
+  },
+  "Audit_Details": {
+    "Audit_Created_By": "qa1",
+    "Sample_To": "QA",
+    "Audit_Started_On": "2024-12-16T17:28:44.65Z",
+    "Audit_Created_On": "2024-12-16T17:28:56Z",
+    "Audit_Evaluation_Duration": "00:00:11",
+    "DeletedStatus": false,
+    "Deleted_By": "",
+    "Deleted_On": "",
+    "level1_submittedBy": "qa1",
+    "level1_submittedRole": "QA",
+    "RoleMapping": {
+      "QA": "QA1",
+      "TEAM LEAD": "TEAM_LEAD_USER"
+    },
+    "PartialAuditDetails": {}
+  },
+  "domainScoreDetails": {},
+  "stageTransactionId": "7a2e7d64-8e3d-41bf-b4c2-c707683b1562",
+  "recording_id": [],
+  "submittedrolid": 8,
+  "escalationDispositionAnswerId": "88735",
+  "escalationDisposition": "NO",
+  "escalatedLevel": 2,
+  "Accept or Reject": "No",
+  "isEscalationDone": true,
+  "dispositionBy": "team_lead_user",
+  "dispositionByRole": "TEAM LEAD",
+  "isEscalationCycleComplete": false,
+  "dataTableID": "1a7396b0-3e46-4c46-a590-9fbc1e66433e"
+},
+{
+  "_id": "7db73f7e-961d-4438-8983-bace5b188b42",
+  "evaluationID": "679c56b5-c2a2-4e4b-9c12-d756ddc3d312",
+  "stageID": "61",
+  "stageName": "Escalation Stage",
+  "processID": "18",
+  "subProcessID": "18",
+  "subSubProcess": "22",
+  "submittedBy": "qa1",
+  "submittedByRole": "QA",
+  "submittedDateTime": {
+    "$date": "2024-12-16T17:33:08.000Z"
+  },
+  "sectionA": {
+    "Customer's Name": "Lenka",
+    "Trans Unique Id": "60"
+  },
+  "sectionB": [
+    {
+      "Block 1": {
+        "block_name": "Block Name_1",
+        "State": "Tamil Nadu",
+        "City": "Chennai",
+        "Address": "aabb",
+        "Enquiry Date": "Dec. 11, 2024"
+      }
+    }
+  ],
+  "sectionC": [
+    {
+      "Tab 1": {
+        "structureType": "Normal",
+        "tabName": "e",
+        "tabWeightage": "",
+        "questionSetID": "222",
+        "question_answer": [
+          {
+            "questionID": "3823",
+            "question": "Enter your input",
+            "questionWeightage": "",
+            "answerID": 88731,
+            "answer": "changing anser",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3824",
+            "question": "Gender",
+            "questionWeightage": "",
+            "answerID": "88733",
+            "answer": "Female",
+            "answerWeightage": ""
+          }
+        ]
+      }
+    }
+  ],
+  "action": [],
+  "Audit_Details": {
+    "Audit_Created_By": "qa1",
+    "Sample_To": "QA",
+    "Audit_Started_On": "2024-12-16T17:28:44.65Z",
+    "Audit_Created_On": "2024-12-16T17:28:56Z",
+    "Audit_Evaluation_Duration": "00:00:11",
+    "DeletedStatus": false,
+    "Deleted_By": "",
+    "Deleted_On": "",
+    "level1_submittedBy": "qa1",
+    "level1_submittedRole": "QA",
+    "RoleMapping": {
+      "QA": "QA1",
+      "TEAM LEAD": "TEAM_LEAD_USER"
+    },
+    "PartialAuditDetails": {}
+  },
+  "stageTransactionId": "7a2e7d64-8e3d-41bf-b4c2-c707683b1562",
+  "recording_id": [],
+  "domainScoreDetails": {},
+  "Fatal_Status": false,
+  "scoreDetails": {
+    "ScorableValue": "0",
+    "ScoredValue": "0",
+    "AuditScore": "0"
+  },
+  "submittedrolid": 3,
+  "isEscalationCycleComplete": false,
+  "escalatedLevel": 1,
+  "isEscalationDone": true,
+  "escalationDispositionAnswerId": "-",
+  "escalationDisposition": "-",
+  "dispositionBy": "qa1",
+  "dispositionByRole": "QA",
+  "dataTableID": "7db73f7e-961d-4438-8983-bace5b188b42"
+},
+{
+  "_id": "f4420996-d63b-4663-8fde-ad1b66a57a4b",
+  "evaluationID": "679c56b5-c2a2-4e4b-9c12-d756ddc3d312",
+  "stageID": "61",
+  "stageName": "Escalation Stage",
+  "processID": "18",
+  "subProcessID": "18",
+  "subSubProcess": "22",
+  "submittedBy": "team_lead_user",
+  "submittedByRole": "Team Lead",
+  "submittedDateTime": {
+    "$date": "2024-12-16T17:33:48.000Z"
+  },
+  "sectionA": {
+    "Customer's Name": "Lenka",
+    "Trans Unique Id": "60"
+  },
+  "sectionB": [
+    {
+      "Block 1": {
+        "block_name": "Block Name_1",
+        "State": "Tamil Nadu",
+        "City": "Chennai",
+        "Address": "aabb",
+        "Enquiry Date": "Dec. 11, 2024"
+      }
+    }
+  ],
+  "sectionC": [
+    {
+      "Tab 1": {
+        "structureType": "Normal",
+        "tabName": "e",
+        "tabWeightage": "",
+        "questionSetID": "222",
+        "question_answer": [
+          {
+            "questionID": "3823",
+            "question": "Enter your input",
+            "questionWeightage": "",
+            "answerID": 88731,
+            "answer": "changing anser",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3824",
+            "question": "Gender",
+            "questionWeightage": "",
+            "answerID": "88733",
+            "answer": "Female",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3825",
+            "question": "Accept or Reject",
+            "questionWeightage": "",
+            "answerID": "88734",
+            "answer": "Yes",
+            "answerWeightage": "",
+            "is_escalated": true
+          }
+        ]
+      }
+    }
+  ],
+  "action": [],
+  "scoreDetails": {
+    "ScorableValue": "0",
+    "ScoredValue": "0",
+    "AuditScore": "0"
+  },
+  "Audit_Details": {
+    "Audit_Created_By": "qa1",
+    "Sample_To": "QA",
+    "Audit_Started_On": "2024-12-16T17:28:44.65Z",
+    "Audit_Created_On": "2024-12-16T17:28:56Z",
+    "Audit_Evaluation_Duration": "00:00:11",
+    "DeletedStatus": false,
+    "Deleted_By": "",
+    "Deleted_On": "",
+    "level1_submittedBy": "qa1",
+    "level1_submittedRole": "QA",
+    "RoleMapping": {
+      "QA": "QA1",
+      "TEAM LEAD": "TEAM_LEAD_USER"
+    },
+    "PartialAuditDetails": {}
+  },
+  "domainScoreDetails": {},
+  "stageTransactionId": "7a2e7d64-8e3d-41bf-b4c2-c707683b1562",
+  "recording_id": [],
+  "submittedrolid": 8,
+  "escalationDispositionAnswerId": "88734",
+  "escalationDisposition": "YES",
+  "escalatedLevel": 2,
+  "Accept or Reject": "Yes",
+  "isEscalationDone": false,
+  "dispositionBy": "team_lead_user",
+  "dispositionByRole": "TEAM LEAD",
+  "isEscalationCycleComplete": false,
+  "dataTableID": "f4420996-d63b-4663-8fde-ad1b66a57a4b"
+},
+{
+  "_id": "68736ac4-b24a-4966-8953-e156c2083e5f",
+  "evaluationID": "6abb6c80-0613-4f32-9c8f-0ed656bf006d",
+  "tansUniqueId": 60,
+  "stageID": "61",
+  "stageName": "Escalation Stage",
+  "processID": "18",
+  "subProcessID": "18",
+  "subSubProcess": "22",
+  "submittedBy": "qa1",
+  "submittedByRole": "QA",
+  "submittedDateTime": {
+    "$date": "2024-12-17T12:45:56.000Z"
+  },
+  "sectionA": {
+    "Customer's Name": "Lenka",
+    "Trans Unique Id": "60"
+  },
+  "sectionB": [
+    {
+      "Block 1": {
+        "block_name": "Block Name_1",
+        "State": "Tamil Nadu",
+        "City": "Chennai",
+        "Address": "aabb",
+        "Enquiry Date": "Dec. 11, 2024"
+      }
+    }
+  ],
+  "sectionC": [
+    {
+      "Tab 1": {
+        "structureType": "Normal",
+        "tabName": "e",
+        "tabWeightage": "",
+        "questionSetID": "222",
+        "question_answer": [
+          {
+            "questionID": "3823",
+            "question": "Enter your input",
+            "questionWeightage": "",
+            "answerID": 88731,
+            "answer": "123123sds",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3824",
+            "question": "Gender",
+            "questionWeightage": "",
+            "answerID": "88732",
+            "answer": "Male",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3825",
+            "question": "Accept or Reject",
+            "questionWeightage": "",
+            "answerID": "",
+            "answer": "",
+            "answerWeightage": ""
+          }
+        ]
+      }
+    }
+  ],
+  "action": [],
+  "Disposition": {
+    "dispositionType": "AUTO",
+    "processID": "18",
+    "subProcessID": "18",
+    "subSubProcess": "22",
+    "stageID": "61",
+    "question_answer": [],
+    "AssignTo": null,
+    "Ticket_Status": null,
+    "To Stage Name": "Escalation Stage"
+  },
+  "AssignToFilters": {
+    "question_answer": []
+  },
+  "recording_id": [],
+  "sms_status": "",
+  "whatsapp_status": "",
+  "email_status": "",
+  "Audit_Started_On": {
+    "$date": "2024-12-17T12:45:40.610Z"
+  },
+  "AllocationMethod": "Normal Audit",
+  "Scheduler": {
+    "ScheduleTo": "",
+    "Filters": []
+  },
+  "ScheduleDate": "",
+  "ScheduleStartTime": "",
+  "ScheduleEndTime": "",
+  "ScheduleReason": "string",
+  "ClickToCall": {},
+  "GSMGateway": {},
+  "CloudPhone": {},
+  "Latitude": "",
+  "Longitude": "",
+  "AutoSMS": [],
+  "TicketId": "202412161725186a653c",
+  "partialSaveId": "None",
+  "domainScoreDetails": {},
+  "Fatal_Status": false,
+  "scoreDetails": {
+    "ScorableValue": "0",
+    "ScoredValue": "0",
+    "AuditScore": "0"
+  },
+  "submittedrolid": 3,
+  "Audit_Details": {
+    "Audit_Created_By": "qa1",
+    "Sample_To": "QA",
+    "Audit_Started_On": {
+      "$date": "2024-12-17T12:45:40.610Z"
+    },
+    "Audit_Created_On": {
+      "$date": "2024-12-17T12:45:56.000Z"
+    },
+    "Audit_Evaluation_Duration": "00:00:15",
+    "DeletedStatus": false,
+    "Deleted_By": "",
+    "Deleted_On": "",
+    "level1_submittedBy": "qa1",
+    "level1_submittedRole": "QA",
+    "RoleMapping": {
+      "QA": "QA1",
+      "TEAM LEAD": "TEAM_LEAD_USER"
+    },
+    "PartialAuditDetails": {}
+  },
+  "isEscalationCycleComplete": false,
+  "isEscalationDone": true,
+  "dispositionBy": "",
+  "dispositionByRole": "",
+  "escalatedLevel": 1,
+  "escalationDispositionAnswerId": "-",
+  "escalationDisposition": "-",
+  "stageTransactionId": "68736ac4-b24a-4966-8953-e156c2083e5f",
+  "dataTableID": "68736ac4-b24a-4966-8953-e156c2083e5f"
+},
+{
+  "_id": "152c9647-f96b-4e0f-903d-21e6fff8536b",
+  "evaluationID": "06a26fc7-e80f-4c6b-b28c-6b4e980b160c",
+  "tansUniqueId": 60,
+  "stageID": "61",
+  "stageName": "Escalation Stage",
+  "processID": "18",
+  "subProcessID": "18",
+  "subSubProcess": "22",
+  "submittedBy": "qa1",
+  "submittedByRole": "QA",
+  "submittedDateTime": {
+    "$date": "2024-12-18T16:11:22.000Z"
+  },
+  "sectionA": {
+    "Customer's Name": "Lenka",
+    "Trans Unique Id": "60"
+  },
+  "sectionB": [
+    {
+      "Block 1": {
+        "block_name": "Block Name_1",
+        "State": "Tamil Nadu",
+        "City": "Chennai",
+        "Address": "aabb",
+        "Enquiry Date": "Dec. 11, 2024"
+      }
+    }
+  ],
+  "sectionC": [
+    {
+      "Tab 1": {
+        "structureType": "Normal",
+        "tabName": "e",
+        "tabWeightage": "",
+        "questionSetID": "222",
+        "question_answer": [
+          {
+            "questionID": "3823",
+            "question": "Enter your input",
+            "questionWeightage": "",
+            "answerID": 88731,
+            "answer": "123456",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3824",
+            "question": "Gender",
+            "questionWeightage": "",
+            "answerID": "88732",
+            "answer": "Male",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3825",
+            "question": "Accept or Reject",
+            "questionWeightage": "",
+            "answerID": "",
+            "answer": "",
+            "answerWeightage": ""
+          }
+        ]
+      }
+    }
+  ],
+  "action": [],
+  "Disposition": {
+    "dispositionType": "AUTO",
+    "processID": "18",
+    "subProcessID": "18",
+    "subSubProcess": "22",
+    "stageID": "61",
+    "question_answer": [],
+    "AssignTo": null,
+    "Ticket_Status": null,
+    "To Stage Name": "Escalation Stage"
+  },
+  "AssignToFilters": {
+    "question_answer": []
+  },
+  "recording_id": [],
+  "sms_status": "",
+  "whatsapp_status": "",
+  "email_status": "",
+  "Audit_Started_On": {
+    "$date": "2024-12-18T16:11:12.265Z"
+  },
+  "AllocationMethod": "Normal Audit",
+  "Scheduler": {
+    "ScheduleTo": "",
+    "Filters": []
+  },
+  "ScheduleDate": "",
+  "ScheduleStartTime": "",
+  "ScheduleEndTime": "",
+  "ScheduleReason": "string",
+  "ClickToCall": {},
+  "GSMGateway": {},
+  "CloudPhone": {},
+  "Latitude": "",
+  "Longitude": "",
+  "AutoSMS": [],
+  "TicketId": "202412161725186a653c",
+  "partialSaveId": "None",
+  "domainScoreDetails": {},
+  "Fatal_Status": false,
+  "scoreDetails": {
+    "ScorableValue": "0",
+    "ScoredValue": "0",
+    "AuditScore": "0"
+  },
+  "submittedrolid": 3,
+  "Audit_Details": {
+    "Audit_Created_By": "qa1",
+    "Sample_To": "QA",
+    "Audit_Started_On": {
+      "$date": "2024-12-18T16:11:12.265Z"
+    },
+    "Audit_Created_On": {
+      "$date": "2024-12-18T16:11:22.000Z"
+    },
+    "Audit_Evaluation_Duration": "00:00:09",
+    "DeletedStatus": false,
+    "Deleted_By": "",
+    "Deleted_On": "",
+    "level1_submittedBy": "qa1",
+    "level1_submittedRole": "QA",
+    "RoleMapping": {
+      "QA": "QA1",
+      "TEAM LEAD": "TEAM_LEAD_USER"
+    },
+    "PartialAuditDetails": {}
+  },
+  "isEscalationCycleComplete": false,
+  "isEscalationDone": true,
+  "dispositionBy": "",
+  "dispositionByRole": "",
+  "escalatedLevel": 1,
+  "escalationDispositionAnswerId": "-",
+  "escalationDisposition": "-",
+  "stageTransactionId": "152c9647-f96b-4e0f-903d-21e6fff8536b",
+  "dataTableID": "152c9647-f96b-4e0f-903d-21e6fff8536b"
+},
+{
+  "_id": "fc200a26-e37b-4bf8-b49b-9ebe663c2e06",
+  "evaluationID": "06a26fc7-e80f-4c6b-b28c-6b4e980b160c",
+  "stageID": "61",
+  "stageName": "Escalation Stage",
+  "processID": "18",
+  "subProcessID": "18",
+  "subSubProcess": "22",
+  "submittedBy": "team_lead_user",
+  "submittedByRole": "Team Lead",
+  "submittedDateTime": {
+    "$date": "2024-12-18T16:12:01.000Z"
+  },
+  "sectionA": {
+    "Customer's Name": "Lenka",
+    "Trans Unique Id": "60"
+  },
+  "sectionB": [
+    {
+      "Block 1": {
+        "block_name": "Block Name_1",
+        "State": "Tamil Nadu",
+        "City": "Chennai",
+        "Address": "aabb",
+        "Enquiry Date": "Dec. 11, 2024"
+      }
+    }
+  ],
+  "sectionC": [
+    {
+      "Tab 1": {
+        "structureType": "Normal",
+        "tabName": "e",
+        "tabWeightage": "",
+        "questionSetID": "222",
+        "question_answer": [
+          {
+            "questionID": "3823",
+            "question": "Enter your input",
+            "questionWeightage": "",
+            "answerID": 88731,
+            "answer": "123456",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3824",
+            "question": "Gender",
+            "questionWeightage": "",
+            "answerID": "88732",
+            "answer": "Male",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3825",
+            "question": "Accept or Reject",
+            "questionWeightage": "",
+            "answerID": "88734",
+            "answer": "Yes",
+            "answerWeightage": "",
+            "is_escalated": true
+          }
+        ]
+      }
+    }
+  ],
+  "action": [],
+  "scoreDetails": {
+    "ScorableValue": "0",
+    "ScoredValue": "0",
+    "AuditScore": "0"
+  },
+  "Audit_Details": {
+    "Audit_Created_By": "qa1",
+    "Sample_To": "QA",
+    "Audit_Started_On": "2024-12-18T16:11:12.265Z",
+    "Audit_Created_On": "2024-12-18T16:11:22Z",
+    "Audit_Evaluation_Duration": "00:00:09",
+    "DeletedStatus": false,
+    "Deleted_By": "",
+    "Deleted_On": "",
+    "level1_submittedBy": "qa1",
+    "level1_submittedRole": "QA",
+    "RoleMapping": {
+      "QA": "QA1",
+      "TEAM LEAD": "TEAM_LEAD_USER"
+    },
+    "PartialAuditDetails": {}
+  },
+  "domainScoreDetails": {},
+  "stageTransactionId": "152c9647-f96b-4e0f-903d-21e6fff8536b",
+  "recording_id": [],
+  "submittedrolid": 8,
+  "escalationDispositionAnswerId": "88734",
+  "escalationDisposition": "YES",
+  "escalatedLevel": 2,
+  "Accept or Reject": "Yes",
+  "isEscalationDone": false,
+  "dispositionBy": "team_lead_user",
+  "dispositionByRole": "TEAM LEAD",
+  "isEscalationCycleComplete": false,
+  "dataTableID": "fc200a26-e37b-4bf8-b49b-9ebe663c2e06"
+},
+{
+  "_id": "49d686e2-5f76-4059-b909-01d4bccae0a6",
+  "evaluationID": "c29e9d4d-45a5-46d1-96c1-73b8f643a42f",
+  "tansUniqueId": 60,
+  "stageID": "61",
+  "stageName": "Escalation Stage",
+  "processID": "18",
+  "subProcessID": "18",
+  "subSubProcess": "22",
+  "submittedBy": "qa1",
+  "submittedByRole": "QA",
+  "submittedDateTime": {
+    "$date": "2024-12-21T16:39:32.000Z"
+  },
+  "sectionA": {
+    "Customer's Name": "Lenka",
+    "Trans Unique Id": "60"
+  },
+  "sectionB": [
+    {
+      "Block 1": {
+        "block_name": "Block Name_1",
+        "State": "Tamil Nadu",
+        "City": "Chennai",
+        "Address": "aabb",
+        "Enquiry Date": "Dec. 11, 2024"
+      }
+    }
+  ],
+  "sectionC": [
+    {
+      "Tab 1": {
+        "structureType": "Normal",
+        "tabName": "e",
+        "tabWeightage": "",
+        "questionSetID": "222",
+        "question_answer": [
+          {
+            "questionID": "3823",
+            "question": "Enter your input",
+            "questionWeightage": "",
+            "answerID": 88731,
+            "answer": "1321321",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3824",
+            "question": "Gender",
+            "questionWeightage": "",
+            "answerID": "88733",
+            "answer": "Female",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3825",
+            "question": "Accept or Reject",
+            "questionWeightage": "",
+            "answerID": "",
+            "answer": "",
+            "answerWeightage": ""
+          }
+        ]
+      }
+    }
+  ],
+  "action": [],
+  "Disposition": {
+    "dispositionType": "AUTO",
+    "processID": "18",
+    "subProcessID": "18",
+    "subSubProcess": "22",
+    "stageID": "61",
+    "question_answer": [],
+    "AssignTo": null,
+    "Ticket_Status": null,
+    "To Stage Name": "Escalation Stage"
+  },
+  "AssignToFilters": {
+    "question_answer": []
+  },
+  "recording_id": [],
+  "sms_status": "",
+  "whatsapp_status": "",
+  "email_status": "",
+  "Audit_Started_On": {
+    "$date": "2024-12-21T16:39:23.856Z"
+  },
+  "AllocationMethod": "Normal Audit",
+  "Scheduler": {
+    "ScheduleTo": "",
+    "Filters": []
+  },
+  "ScheduleDate": "",
+  "ScheduleStartTime": "",
+  "ScheduleEndTime": "",
+  "ScheduleReason": "string",
+  "ClickToCall": {},
+  "GSMGateway": {},
+  "CloudPhone": {},
+  "Latitude": "",
+  "Longitude": "",
+  "AutoSMS": [],
+  "TicketId": "202412161725186a653c",
+  "partialSaveId": "None",
+  "domainScoreDetails": {},
+  "Fatal_Status": false,
+  "scoreDetails": {
+    "ScorableValue": "0",
+    "ScoredValue": "0",
+    "AuditScore": "0"
+  },
+  "submittedrolid": 3,
+  "Audit_Details": {
+    "Audit_Created_By": "qa1",
+    "Sample_To": "QA",
+    "Audit_Started_On": {
+      "$date": "2024-12-21T16:39:23.856Z"
+    },
+    "Audit_Created_On": {
+      "$date": "2024-12-21T16:39:32.000Z"
+    },
+    "Audit_Evaluation_Duration": "00:00:08",
+    "DeletedStatus": false,
+    "Deleted_By": "",
+    "Deleted_On": "",
+    "level1_submittedBy": "qa1",
+    "level1_submittedRole": "QA",
+    "RoleMapping": {
+      "QA": "QA1",
+      "TEAM LEAD": "TEAM_LEAD_USER"
+    },
+    "PartialAuditDetails": {}
+  },
+  "isEscalationCycleComplete": false,
+  "isEscalationDone": true,
+  "dispositionBy": "",
+  "dispositionByRole": "",
+  "escalatedLevel": 1,
+  "escalationDispositionAnswerId": "-",
+  "escalationDisposition": "-",
+  "stageTransactionId": "49d686e2-5f76-4059-b909-01d4bccae0a6",
+  "dataTableID": "49d686e2-5f76-4059-b909-01d4bccae0a6"
+},
+{
+  "_id": "6d4172e6-2be6-4730-a9c8-bb4ea5024e0d",
+  "evaluationID": "c29e9d4d-45a5-46d1-96c1-73b8f643a42f",
+  "stageID": "61",
+  "stageName": "Escalation Stage",
+  "processID": "18",
+  "subProcessID": "18",
+  "subSubProcess": "22",
+  "submittedBy": "team_lead_user",
+  "submittedByRole": "Team Lead",
+  "submittedDateTime": {
+    "$date": "2024-12-21T16:53:44.000Z"
+  },
+  "sectionA": {
+    "Customer's Name": "Lenka",
+    "Trans Unique Id": "60"
+  },
+  "sectionB": [
+    {
+      "Block 1": {
+        "block_name": "Block Name_1",
+        "State": "Tamil Nadu",
+        "City": "Chennai",
+        "Address": "aabb",
+        "Enquiry Date": "Dec. 11, 2024"
+      }
+    }
+  ],
+  "sectionC": [
+    {
+      "Tab 1": {
+        "structureType": "Normal",
+        "tabName": "e",
+        "tabWeightage": "",
+        "questionSetID": "222",
+        "question_answer": [
+          {
+            "questionID": "3823",
+            "question": "Enter your input",
+            "questionWeightage": "",
+            "answerID": 88731,
+            "answer": "1321321",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3824",
+            "question": "Gender",
+            "questionWeightage": "",
+            "answerID": "88733",
+            "answer": "Female",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3825",
+            "question": "Accept or Reject",
+            "questionWeightage": "",
+            "answerID": "88734",
+            "answer": "Yes",
+            "answerWeightage": "",
+            "is_escalated": true
+          }
+        ]
+      }
+    }
+  ],
+  "action": [],
+  "scoreDetails": {
+    "ScorableValue": "0",
+    "ScoredValue": "0",
+    "AuditScore": "0"
+  },
+  "Audit_Details": {
+    "Audit_Created_By": "qa1",
+    "Sample_To": "QA",
+    "Audit_Started_On": "2024-12-21T16:39:23.856Z",
+    "Audit_Created_On": "2024-12-21T16:39:32Z",
+    "Audit_Evaluation_Duration": "00:00:08",
+    "DeletedStatus": false,
+    "Deleted_By": "",
+    "Deleted_On": "",
+    "level1_submittedBy": "qa1",
+    "level1_submittedRole": "QA",
+    "RoleMapping": {
+      "QA": "QA1",
+      "TEAM LEAD": "TEAM_LEAD_USER"
+    },
+    "PartialAuditDetails": {}
+  },
+  "domainScoreDetails": {},
+  "stageTransactionId": "49d686e2-5f76-4059-b909-01d4bccae0a6",
+  "recording_id": [],
+  "submittedrolid": 8,
+  "escalationDispositionAnswerId": "88734",
+  "escalationDisposition": "YES",
+  "escalatedLevel": 2,
+  "Accept or Reject": "Yes",
+  "isEscalationDone": true,
+  "isEscalationCycleComplete": true,
+  "dispositionBy": "team_lead_user",
+  "dispositionByRole": "TEAM LEAD",
+  "dataTableID": "6d4172e6-2be6-4730-a9c8-bb4ea5024e0d"
+},
+{
+  "_id": "47d97fe1-9f54-4bc2-952a-a472e3eeb3a2",
+  "evaluationID": "f1edef44-18b9-4611-8fd1-a5f390216701",
+  "tansUniqueId": 61,
+  "stageID": "61",
+  "stageName": "Escalation Stage",
+  "processID": "18",
+  "subProcessID": "18",
+  "subSubProcess": "22",
+  "submittedBy": "qa1",
+  "submittedByRole": "QA",
+  "submittedDateTime": {
+    "$date": "2024-12-23T11:31:40.000Z"
+  },
+  "sectionA": {
+    "Customer's Name": "Bhuvana",
+    "Trans Unique Id": "61"
+  },
+  "sectionB": [
+    {
+      "Block 1": {
+        "block_name": "Block Name_1",
+        "State": "Karnataka",
+        "City": "mumbai",
+        "Address": "asdasdasdas",
+        "Enquiry Date": "Jan. 1, 2025"
+      }
+    }
+  ],
+  "sectionC": [
+    {
+      "Tab 1": {
+        "structureType": "Normal",
+        "tabName": "e",
+        "tabWeightage": "",
+        "questionSetID": "222",
+        "question_answer": [
+          {
+            "questionID": "3823",
+            "question": "Enter your input",
+            "questionWeightage": "",
+            "answerID": 88731,
+            "answer": "12345",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3824",
+            "question": "Gender",
+            "questionWeightage": "",
+            "answerID": "88732",
+            "answer": "Male",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3825",
+            "question": "Accept or Reject",
+            "questionWeightage": "",
+            "answerID": "",
+            "answer": "",
+            "answerWeightage": ""
+          }
+        ]
+      }
+    }
+  ],
+  "action": [],
+  "Disposition": {
+    "dispositionType": "AUTO",
+    "processID": "18",
+    "subProcessID": "18",
+    "subSubProcess": "22",
+    "stageID": "61",
+    "question_answer": [],
+    "AssignTo": null,
+    "Ticket_Status": null,
+    "To Stage Name": "Escalation Stage"
+  },
+  "AssignToFilters": {
+    "question_answer": []
+  },
+  "recording_id": [],
+  "sms_status": "",
+  "whatsapp_status": "",
+  "email_status": "",
+  "Audit_Started_On": {
+    "$date": "2024-12-23T11:31:27.711Z"
+  },
+  "AllocationMethod": "Auto",
+  "Scheduler": {
+    "ScheduleTo": "",
+    "Filters": []
+  },
+  "ScheduleDate": "",
+  "ScheduleStartTime": "",
+  "ScheduleEndTime": "",
+  "ScheduleReason": "string",
+  "ClickToCall": {},
+  "GSMGateway": {},
+  "CloudPhone": {},
+  "Latitude": "",
+  "Longitude": "",
+  "AutoSMS": [],
+  "TicketId": "2024122311313014d7de",
+  "partialSaveId": "None",
+  "domainScoreDetails": {},
+  "Fatal_Status": false,
+  "scoreDetails": {
+    "ScorableValue": "0",
+    "ScoredValue": "0",
+    "AuditScore": "0"
+  },
+  "submittedrolid": 3,
+  "Audit_Details": {
+    "Audit_Created_By": "qa1",
+    "Sample_To": "QA",
+    "Audit_Started_On": {
+      "$date": "2024-12-23T11:31:27.711Z"
+    },
+    "Audit_Created_On": {
+      "$date": "2024-12-23T11:31:40.000Z"
+    },
+    "Audit_Evaluation_Duration": "00:00:12",
+    "DeletedStatus": false,
+    "Deleted_By": "",
+    "Deleted_On": "",
+    "level1_submittedBy": "qa1",
+    "level1_submittedRole": "QA",
+    "RoleMapping": {
+      "QA": "QA1",
+      "TEAM LEAD": "TEAM_LEAD_USER"
+    },
+    "PartialAuditDetails": {}
+  },
+  "isEscalationCycleComplete": false,
+  "isEscalationDone": true,
+  "dispositionBy": "",
+  "dispositionByRole": "",
+  "escalatedLevel": 1,
+  "escalationDispositionAnswerId": "-",
+  "escalationDisposition": "-",
+  "stageTransactionId": "47d97fe1-9f54-4bc2-952a-a472e3eeb3a2",
+  "dataTableID": "47d97fe1-9f54-4bc2-952a-a472e3eeb3a2"
+},
+{
+  "_id": "21eb4455-67af-4638-b1cb-f0258d023cec",
+  "evaluationID": "f1edef44-18b9-4611-8fd1-a5f390216701",
+  "stageID": "61",
+  "stageName": "Escalation Stage",
+  "processID": "18",
+  "subProcessID": "18",
+  "subSubProcess": "22",
+  "submittedBy": "team_lead_user",
+  "submittedByRole": "Team Lead",
+  "submittedDateTime": {
+    "$date": "2024-12-23T11:33:49.000Z"
+  },
+  "sectionA": {
+    "Customer's Name": "Bhuvana",
+    "Trans Unique Id": "61"
+  },
+  "sectionB": [
+    {
+      "Block 1": {
+        "block_name": "Block Name_1",
+        "State": "Karnataka",
+        "City": "mumbai",
+        "Address": "asdasdasdas",
+        "Enquiry Date": "Jan. 1, 2025"
+      }
+    }
+  ],
+  "sectionC": [
+    {
+      "Tab 1": {
+        "structureType": "Normal",
+        "tabName": "e",
+        "tabWeightage": "",
+        "questionSetID": "222",
+        "question_answer": [
+          {
+            "questionID": "3823",
+            "question": "Enter your input",
+            "questionWeightage": "",
+            "answerID": 88731,
+            "answer": "12345",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3824",
+            "question": "Gender",
+            "questionWeightage": "",
+            "answerID": "88732",
+            "answer": "Male",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3825",
+            "question": "Accept or Reject",
+            "questionWeightage": "",
+            "answerID": "88734",
+            "answer": "Yes",
+            "answerWeightage": "",
+            "is_escalated": true
+          }
+        ]
+      }
+    }
+  ],
+  "action": [],
+  "scoreDetails": {
+    "ScorableValue": "0",
+    "ScoredValue": "0",
+    "AuditScore": "0"
+  },
+  "Audit_Details": {
+    "Audit_Created_By": "qa1",
+    "Sample_To": "QA",
+    "Audit_Started_On": "2024-12-23T11:31:27.711Z",
+    "Audit_Created_On": "2024-12-23T11:31:40Z",
+    "Audit_Evaluation_Duration": "00:00:12",
+    "DeletedStatus": false,
+    "Deleted_By": "",
+    "Deleted_On": "",
+    "level1_submittedBy": "qa1",
+    "level1_submittedRole": "QA",
+    "RoleMapping": {
+      "QA": "QA1",
+      "TEAM LEAD": "TEAM_LEAD_USER"
+    },
+    "PartialAuditDetails": {}
+  },
+  "domainScoreDetails": {},
+  "stageTransactionId": "47d97fe1-9f54-4bc2-952a-a472e3eeb3a2",
+  "recording_id": [],
+  "submittedrolid": 8,
+  "escalationDispositionAnswerId": "88734",
+  "escalationDisposition": "YES",
+  "escalatedLevel": 2,
+  "Accept or Reject": "Yes",
+  "isEscalationDone": true,
+  "isEscalationCycleComplete": true,
+  "dispositionBy": "team_lead_user",
+  "dispositionByRole": "TEAM LEAD",
+  "dataTableID": "21eb4455-67af-4638-b1cb-f0258d023cec"
+},
+{
+  "_id": "ca3d972a-a01e-41c8-aa6c-f5aa78dd7a12",
+  "evaluationID": "5041cf84-c0dd-4336-bc09-10f7743c98a2",
+  "tansUniqueId": 61,
+  "stageID": "61",
+  "stageName": "Escalation Stage",
+  "processID": "18",
+  "subProcessID": "18",
+  "subSubProcess": "22",
+  "submittedBy": "qa1",
+  "submittedByRole": "QA",
+  "submittedDateTime": {
+    "$date": "2024-12-24T13:19:30.000Z"
+  },
+  "sectionA": {
+    "Customer's Name": "Bhuvana",
+    "Trans Unique Id": "61"
+  },
+  "sectionB": [
+    {
+      "Block 1": {
+        "block_name": "Block Name_1",
+        "State": "Karnataka",
+        "City": "mumbai",
+        "Address": "asdasdasdas",
+        "Enquiry Date": "Jan. 1, 2025"
+      }
+    }
+  ],
+  "sectionC": [
+    {
+      "Tab 1": {
+        "structureType": "Normal",
+        "tabName": "e",
+        "tabWeightage": "",
+        "questionSetID": "222",
+        "question_answer": [
+          {
+            "questionID": "3823",
+            "question": "Enter your input",
+            "questionWeightage": "",
+            "answerID": 88731,
+            "answer": "123",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3824",
+            "question": "Gender",
+            "questionWeightage": "",
+            "answerID": "88733",
+            "answer": "Female",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3825",
+            "question": "Accept or Reject",
+            "questionWeightage": "",
+            "answerID": "",
+            "answer": "",
+            "answerWeightage": ""
+          }
+        ]
+      }
+    }
+  ],
+  "action": [],
+  "Disposition": {
+    "dispositionType": "AUTO",
+    "processID": "18",
+    "subProcessID": "18",
+    "subSubProcess": "22",
+    "stageID": "61",
+    "question_answer": [],
+    "AssignTo": null,
+    "Ticket_Status": null,
+    "To Stage Name": "Escalation Stage"
+  },
+  "AssignToFilters": {
+    "question_answer": []
+  },
+  "recording_id": [],
+  "sms_status": "",
+  "whatsapp_status": "",
+  "email_status": "",
+  "Audit_Started_On": {
+    "$date": "2024-12-24T13:18:03.393Z"
+  },
+  "AllocationMethod": "Normal Audit",
+  "Scheduler": {
+    "ScheduleTo": "",
+    "Filters": []
+  },
+  "ScheduleDate": "",
+  "ScheduleStartTime": "",
+  "ScheduleEndTime": "",
+  "ScheduleReason": "string",
+  "ClickToCall": {},
+  "GSMGateway": {},
+  "CloudPhone": {},
+  "Latitude": "",
+  "Longitude": "",
+  "AutoSMS": [],
+  "TicketId": "2024122311313014d7de",
+  "partialSaveId": "None",
+  "domainScoreDetails": {},
+  "Fatal_Status": false,
+  "scoreDetails": {
+    "ScorableValue": "0",
+    "ScoredValue": "0",
+    "AuditScore": "0"
+  },
+  "submittedrolid": 3,
+  "Audit_Details": {
+    "Audit_Created_By": "qa1",
+    "Sample_To": "QA",
+    "Audit_Started_On": {
+      "$date": "2024-12-24T13:18:03.393Z"
+    },
+    "Audit_Created_On": {
+      "$date": "2024-12-24T13:19:30.000Z"
+    },
+    "Audit_Evaluation_Duration": "00:01:26",
+    "DeletedStatus": false,
+    "Deleted_By": "",
+    "Deleted_On": "",
+    "level1_submittedBy": "qa1",
+    "level1_submittedRole": "QA",
+    "RoleMapping": {
+      "QA": "QA1",
+      "TEAM LEAD": "TEAM_LEAD_USER"
+    },
+    "PartialAuditDetails": {}
+  },
+  "isEscalationCycleComplete": false,
+  "isEscalationDone": true,
+  "dispositionBy": "",
+  "dispositionByRole": "",
+  "escalatedLevel": 1,
+  "escalationDispositionAnswerId": "-",
+  "escalationDisposition": "-",
+  "stageTransactionId": "ca3d972a-a01e-41c8-aa6c-f5aa78dd7a12",
+  "dataTableID": "ca3d972a-a01e-41c8-aa6c-f5aa78dd7a12"
+},
+{
+  "_id": "53bd9adb-ada3-4c2f-91fc-405c80a35032",
+  "evaluationID": "5041cf84-c0dd-4336-bc09-10f7743c98a2",
+  "stageID": "61",
+  "stageName": "Escalation Stage",
+  "processID": "18",
+  "subProcessID": "18",
+  "subSubProcess": "22",
+  "submittedBy": "team_lead_user",
+  "submittedByRole": "Team Lead",
+  "submittedDateTime": {
+    "$date": "2024-12-24T16:36:22.000Z"
+  },
+  "sectionA": {
+    "Customer's Name": "Bhuvana",
+    "Trans Unique Id": "61"
+  },
+  "sectionB": [
+    {
+      "Block 1": {
+        "block_name": "Block Name_1",
+        "State": "Karnataka",
+        "City": "mumbai",
+        "Address": "asdasdasdas",
+        "Enquiry Date": "Jan. 1, 2025"
+      }
+    }
+  ],
+  "sectionC": [
+    {
+      "Tab 1": {
+        "structureType": "Normal",
+        "tabName": "e",
+        "tabWeightage": "",
+        "questionSetID": "222",
+        "question_answer": [
+          {
+            "questionID": "3823",
+            "question": "Enter your input",
+            "questionWeightage": "",
+            "answerID": 88731,
+            "answer": "123",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3824",
+            "question": "Gender",
+            "questionWeightage": "",
+            "answerID": "88733",
+            "answer": "Female",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3825",
+            "question": "Accept or Reject",
+            "questionWeightage": "",
+            "answerID": "88734",
+            "answer": "Yes",
+            "answerWeightage": "",
+            "is_escalated": true
+          }
+        ]
+      }
+    }
+  ],
+  "action": [],
+  "scoreDetails": {
+    "ScorableValue": "0",
+    "ScoredValue": "0",
+    "AuditScore": "0"
+  },
+  "Audit_Details": {
+    "Audit_Created_By": "qa1",
+    "Sample_To": "QA",
+    "Audit_Started_On": "2024-12-24T13:18:03.393Z",
+    "Audit_Created_On": "2024-12-24T13:19:30Z",
+    "Audit_Evaluation_Duration": "00:01:26",
+    "DeletedStatus": false,
+    "Deleted_By": "",
+    "Deleted_On": "",
+    "level1_submittedBy": "qa1",
+    "level1_submittedRole": "QA",
+    "RoleMapping": {
+      "QA": "QA1",
+      "TEAM LEAD": "TEAM_LEAD_USER"
+    },
+    "PartialAuditDetails": {}
+  },
+  "domainScoreDetails": {},
+  "stageTransactionId": "ca3d972a-a01e-41c8-aa6c-f5aa78dd7a12",
+  "recording_id": [],
+  "submittedrolid": 8,
+  "escalationDispositionAnswerId": "88734",
+  "escalationDisposition": "YES",
+  "escalatedLevel": 2,
+  "Accept or Reject": "Yes",
+  "isEscalationDone": true,
+  "isEscalationCycleComplete": true,
+  "dispositionBy": "team_lead_user",
+  "dispositionByRole": "TEAM LEAD",
+  "dataTableID": "53bd9adb-ada3-4c2f-91fc-405c80a35032"
+},
+{
+  "_id": "103120a9-7acd-4ed5-9c25-5da7103f75e5",
+  "evaluationID": "6abb6c80-0613-4f32-9c8f-0ed656bf006d",
+  "stageID": "61",
+  "stageName": "Escalation Stage",
+  "processID": "18",
+  "subProcessID": "18",
+  "subSubProcess": "22",
+  "submittedBy": "team_lead_user",
+  "submittedByRole": "Team Lead",
+  "submittedDateTime": {
+    "$date": "2024-12-24T16:37:07.000Z"
+  },
+  "sectionA": {
+    "Customer's Name": "Lenka",
+    "Trans Unique Id": "60"
+  },
+  "sectionB": [
+    {
+      "Block 1": {
+        "block_name": "Block Name_1",
+        "State": "Tamil Nadu",
+        "City": "Chennai",
+        "Address": "aabb",
+        "Enquiry Date": "Dec. 11, 2024"
+      }
+    }
+  ],
+  "sectionC": [
+    {
+      "Tab 1": {
+        "structureType": "Normal",
+        "tabName": "e",
+        "tabWeightage": "",
+        "questionSetID": "222",
+        "question_answer": [
+          {
+            "questionID": "3823",
+            "question": "Enter your input",
+            "questionWeightage": "",
+            "answerID": 88731,
+            "answer": "123123sds",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3824",
+            "question": "Gender",
+            "questionWeightage": "",
+            "answerID": "88732",
+            "answer": "Male",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3825",
+            "question": "Accept or Reject",
+            "questionWeightage": "",
+            "answerID": "88735",
+            "answer": "No",
+            "answerWeightage": "",
+            "is_escalated": true
+          }
+        ]
+      }
+    }
+  ],
+  "action": [],
+  "scoreDetails": {
+    "ScorableValue": "0",
+    "ScoredValue": "0",
+    "AuditScore": "0"
+  },
+  "Audit_Details": {
+    "Audit_Created_By": "qa1",
+    "Sample_To": "QA",
+    "Audit_Started_On": "2024-12-17T12:45:40.61Z",
+    "Audit_Created_On": "2024-12-17T12:45:56Z",
+    "Audit_Evaluation_Duration": "00:00:15",
+    "DeletedStatus": false,
+    "Deleted_By": "",
+    "Deleted_On": "",
+    "level1_submittedBy": "qa1",
+    "level1_submittedRole": "QA",
+    "RoleMapping": {
+      "QA": "QA1",
+      "TEAM LEAD": "TEAM_LEAD_USER"
+    },
+    "PartialAuditDetails": {}
+  },
+  "domainScoreDetails": {},
+  "stageTransactionId": "68736ac4-b24a-4966-8953-e156c2083e5f",
+  "recording_id": [],
+  "submittedrolid": 8,
+  "escalationDispositionAnswerId": "88735",
+  "escalationDisposition": "NO",
+  "escalatedLevel": 2,
+  "Accept or Reject": "No",
+  "isEscalationDone": true,
+  "isEscalationCycleComplete": false,
+  "dispositionBy": "team_lead_user",
+  "dispositionByRole": "TEAM LEAD",
+  "dataTableID": "103120a9-7acd-4ed5-9c25-5da7103f75e5"
+},
+{
+  "_id": "b20240e8-ad36-4682-81ef-d525c93f9b0d",
+  "evaluationID": "6abb6c80-0613-4f32-9c8f-0ed656bf006d",
+  "stageID": "61",
+  "stageName": "Escalation Stage",
+  "processID": "18",
+  "subProcessID": "18",
+  "subSubProcess": "22",
+  "submittedBy": "qa1",
+  "submittedByRole": "QA",
+  "submittedDateTime": {
+    "$date": "2024-12-24T16:38:59.000Z"
+  },
+  "sectionA": {
+    "Customer's Name": "Lenka",
+    "Trans Unique Id": "60"
+  },
+  "sectionB": [
+    {
+      "Block 1": {
+        "block_name": "Block Name_1",
+        "State": "Tamil Nadu",
+        "City": "Chennai",
+        "Address": "aabb",
+        "Enquiry Date": "Dec. 11, 2024"
+      }
+    }
+  ],
+  "sectionC": [
+    {
+      "Tab 1": {
+        "structureType": "Normal",
+        "tabName": "e",
+        "tabWeightage": "",
+        "questionSetID": "222",
+        "question_answer": [
+          {
+            "questionID": "3823",
+            "question": "Enter your input",
+            "questionWeightage": "",
+            "answerID": 88731,
+            "answer": "changing this shit",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3824",
+            "question": "Gender",
+            "questionWeightage": "",
+            "answerID": "88732",
+            "answer": "Male",
+            "answerWeightage": ""
+          }
+        ]
+      }
+    }
+  ],
+  "action": [],
+  "Audit_Details": {
+    "Audit_Created_By": "qa1",
+    "Sample_To": "QA",
+    "Audit_Started_On": "2024-12-17T12:45:40.61Z",
+    "Audit_Created_On": "2024-12-17T12:45:56Z",
+    "Audit_Evaluation_Duration": "00:00:15",
+    "DeletedStatus": false,
+    "Deleted_By": "",
+    "Deleted_On": "",
+    "level1_submittedBy": "qa1",
+    "level1_submittedRole": "QA",
+    "RoleMapping": {
+      "QA": "QA1",
+      "TEAM LEAD": "TEAM_LEAD_USER"
+    },
+    "PartialAuditDetails": {}
+  },
+  "stageTransactionId": "68736ac4-b24a-4966-8953-e156c2083e5f",
+  "recording_id": [],
+  "domainScoreDetails": {},
+  "Fatal_Status": false,
+  "scoreDetails": {
+    "ScorableValue": "0",
+    "ScoredValue": "0",
+    "AuditScore": "0"
+  },
+  "submittedrolid": 3,
+  "isEscalationCycleComplete": false,
+  "escalatedLevel": 1,
+  "isEscalationDone": true,
+  "escalationDispositionAnswerId": "-",
+  "escalationDisposition": "-",
+  "dispositionBy": "qa1",
+  "dispositionByRole": "QA",
+  "dataTableID": "b20240e8-ad36-4682-81ef-d525c93f9b0d"
+},
+{
+  "_id": "b3c0d847-fa3f-4991-bb69-29c66705f437",
+  "evaluationID": "6abb6c80-0613-4f32-9c8f-0ed656bf006d",
+  "stageID": "61",
+  "stageName": "Escalation Stage",
+  "processID": "18",
+  "subProcessID": "18",
+  "subSubProcess": "22",
+  "submittedBy": "team_lead_user",
+  "submittedByRole": "Team Lead",
+  "submittedDateTime": {
+    "$date": "2024-12-24T17:23:46.000Z"
+  },
+  "sectionA": {
+    "Customer's Name": "Lenka",
+    "Trans Unique Id": "60"
+  },
+  "sectionB": [
+    {
+      "Block 1": {
+        "block_name": "Block Name_1",
+        "State": "Tamil Nadu",
+        "City": "Chennai",
+        "Address": "aabb",
+        "Enquiry Date": "Dec. 11, 2024"
+      }
+    }
+  ],
+  "sectionC": [
+    {
+      "Tab 1": {
+        "structureType": "Normal",
+        "tabName": "e",
+        "tabWeightage": "",
+        "questionSetID": "222",
+        "question_answer": [
+          {
+            "questionID": "3823",
+            "question": "Enter your input",
+            "questionWeightage": "",
+            "answerID": 88731,
+            "answer": "changing this shit",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3824",
+            "question": "Gender",
+            "questionWeightage": "",
+            "answerID": "88732",
+            "answer": "Male",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3825",
+            "question": "Accept or Reject",
+            "questionWeightage": "",
+            "answerID": "88734",
+            "answer": "Yes",
+            "answerWeightage": "",
+            "is_escalated": true
+          }
+        ]
+      }
+    }
+  ],
+  "action": [],
+  "scoreDetails": {
+    "ScorableValue": "0",
+    "ScoredValue": "0",
+    "AuditScore": "0"
+  },
+  "Audit_Details": {
+    "Audit_Created_By": "qa1",
+    "Sample_To": "QA",
+    "Audit_Started_On": "2024-12-17T12:45:40.61Z",
+    "Audit_Created_On": "2024-12-17T12:45:56Z",
+    "Audit_Evaluation_Duration": "00:00:15",
+    "DeletedStatus": false,
+    "Deleted_By": "",
+    "Deleted_On": "",
+    "level1_submittedBy": "qa1",
+    "level1_submittedRole": "QA",
+    "RoleMapping": {
+      "QA": "QA1",
+      "TEAM LEAD": "TEAM_LEAD_USER"
+    },
+    "PartialAuditDetails": {}
+  },
+  "domainScoreDetails": {},
+  "stageTransactionId": "68736ac4-b24a-4966-8953-e156c2083e5f",
+  "recording_id": [],
+  "submittedrolid": 8,
+  "escalationDispositionAnswerId": "88734",
+  "escalationDisposition": "YES",
+  "escalatedLevel": 2,
+  "Accept or Reject": "Yes",
+  "isEscalationDone": true,
+  "isEscalationCycleComplete": true,
+  "dispositionBy": "team_lead_user",
+  "dispositionByRole": "TEAM LEAD",
+  "dataTableID": "b3c0d847-fa3f-4991-bb69-29c66705f437"
+},
+{
+  "_id": "fab4738c-71e5-4557-b157-4b3fb76aa3bd",
+  "evaluationID": "fb288ca4-b441-4d79-b175-c7e128ce667e",
+  "tansUniqueId": 61,
+  "stageID": "61",
+  "stageName": "Escalation Stage",
+  "processID": "18",
+  "subProcessID": "18",
+  "subSubProcess": "22",
+  "submittedBy": "qa1",
+  "submittedByRole": "QA",
+  "submittedDateTime": {
+    "$date": "2024-12-24T17:58:23.000Z"
+  },
+  "sectionA": {
+    "Customer's Name": "Bhuvana",
+    "Trans Unique Id": "61"
+  },
+  "sectionB": [
+    {
+      "Block 1": {
+        "block_name": "Block Name_1",
+        "State": "Karnataka",
+        "City": "mumbai",
+        "Address": "asdasdasdas",
+        "Enquiry Date": "Jan. 1, 2025"
+      }
+    }
+  ],
+  "sectionC": [
+    {
+      "Tab 1": {
+        "structureType": "Normal",
+        "tabName": "e",
+        "tabWeightage": "",
+        "questionSetID": "222",
+        "question_answer": [
+          {
+            "questionID": "3823",
+            "question": "Enter your input",
+            "questionWeightage": "",
+            "answerID": 88731,
+            "answer": "22",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3824",
+            "question": "Gender",
+            "questionWeightage": "",
+            "answerID": "88733",
+            "answer": "Female",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3825",
+            "question": "Accept or Reject",
+            "questionWeightage": "",
+            "answerID": "",
+            "answer": "",
+            "answerWeightage": ""
+          }
+        ]
+      }
+    }
+  ],
+  "action": [],
+  "Disposition": {
+    "dispositionType": "AUTO",
+    "processID": "18",
+    "subProcessID": "18",
+    "subSubProcess": "22",
+    "stageID": "61",
+    "question_answer": [],
+    "AssignTo": null,
+    "Ticket_Status": null,
+    "To Stage Name": "Escalation Stage"
+  },
+  "AssignToFilters": {
+    "question_answer": []
+  },
+  "recording_id": [],
+  "sms_status": "",
+  "whatsapp_status": "",
+  "email_status": "",
+  "Audit_Started_On": {
+    "$date": "2024-12-24T17:58:08.197Z"
+  },
+  "AllocationMethod": "Normal Audit",
+  "Scheduler": {
+    "ScheduleTo": "",
+    "Filters": []
+  },
+  "ScheduleDate": "",
+  "ScheduleStartTime": "",
+  "ScheduleEndTime": "",
+  "ScheduleReason": "string",
+  "ClickToCall": {},
+  "GSMGateway": {},
+  "CloudPhone": {},
+  "Latitude": "",
+  "Longitude": "",
+  "AutoSMS": [],
+  "TicketId": "2024122311313014d7de",
+  "partialSaveId": "None",
+  "domainScoreDetails": {},
+  "Fatal_Status": false,
+  "scoreDetails": {
+    "ScorableValue": "0",
+    "ScoredValue": "0",
+    "AuditScore": "0"
+  },
+  "submittedrolid": 3,
+  "Audit_Details": {
+    "Audit_Created_By": "qa1",
+    "Sample_To": "QA",
+    "Audit_Started_On": {
+      "$date": "2024-12-24T17:58:08.197Z"
+    },
+    "Audit_Created_On": {
+      "$date": "2024-12-24T17:58:23.000Z"
+    },
+    "Audit_Evaluation_Duration": "00:00:14",
+    "DeletedStatus": false,
+    "Deleted_By": "",
+    "Deleted_On": "",
+    "level1_submittedBy": "qa1",
+    "level1_submittedRole": "QA",
+    "RoleMapping": {
+      "QA": "QA1",
+      "TEAM LEAD": "TEAM_LEAD_USER"
+    },
+    "PartialAuditDetails": {}
+  },
+  "isEscalationCycleComplete": false,
+  "isEscalationDone": true,
+  "dispositionBy": "",
+  "dispositionByRole": "",
+  "escalatedLevel": 1,
+  "escalationDispositionAnswerId": "-",
+  "escalationDisposition": "-",
+  "stageTransactionId": "fab4738c-71e5-4557-b157-4b3fb76aa3bd",
+  "dataTableID": "fab4738c-71e5-4557-b157-4b3fb76aa3bd"
+},
+{
+  "_id": "45503e0b-8efa-4608-b435-8feb5dc5af01",
+  "evaluationID": "fb288ca4-b441-4d79-b175-c7e128ce667e",
+  "stageID": "61",
+  "stageName": "Escalation Stage",
+  "processID": "18",
+  "subProcessID": "18",
+  "subSubProcess": "22",
+  "submittedBy": "team_lead_user",
+  "submittedByRole": "Team Lead",
+  "submittedDateTime": {
+    "$date": "2024-12-24T18:00:38.000Z"
+  },
+  "sectionA": {
+    "Customer's Name": "Bhuvana",
+    "Trans Unique Id": "61"
+  },
+  "sectionB": [
+    {
+      "Block 1": {
+        "block_name": "Block Name_1",
+        "State": "Karnataka",
+        "City": "mumbai",
+        "Address": "asdasdasdas",
+        "Enquiry Date": "Jan. 1, 2025"
+      }
+    }
+  ],
+  "sectionC": [
+    {
+      "Tab 1": {
+        "structureType": "Normal",
+        "tabName": "e",
+        "tabWeightage": "",
+        "questionSetID": "222",
+        "question_answer": [
+          {
+            "questionID": "3823",
+            "question": "Enter your input",
+            "questionWeightage": "",
+            "answerID": 88731,
+            "answer": "22",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3824",
+            "question": "Gender",
+            "questionWeightage": "",
+            "answerID": "88733",
+            "answer": "Female",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3825",
+            "question": "Accept or Reject",
+            "questionWeightage": "",
+            "answerID": "88734",
+            "answer": "Yes",
+            "answerWeightage": "",
+            "is_escalated": true
+          }
+        ]
+      }
+    }
+  ],
+  "action": [],
+  "scoreDetails": {
+    "ScorableValue": "0",
+    "ScoredValue": "0",
+    "AuditScore": "0"
+  },
+  "Audit_Details": {
+    "Audit_Created_By": "qa1",
+    "Sample_To": "QA",
+    "Audit_Started_On": "2024-12-24T17:58:08.197Z",
+    "Audit_Created_On": "2024-12-24T17:58:23Z",
+    "Audit_Evaluation_Duration": "00:00:14",
+    "DeletedStatus": false,
+    "Deleted_By": "",
+    "Deleted_On": "",
+    "level1_submittedBy": "qa1",
+    "level1_submittedRole": "QA",
+    "RoleMapping": {
+      "QA": "QA1",
+      "TEAM LEAD": "TEAM_LEAD_USER"
+    },
+    "PartialAuditDetails": {}
+  },
+  "domainScoreDetails": {},
+  "stageTransactionId": "fab4738c-71e5-4557-b157-4b3fb76aa3bd",
+  "recording_id": [],
+  "submittedrolid": 8,
+  "escalationDispositionAnswerId": "88734",
+  "escalationDisposition": "YES",
+  "escalatedLevel": 2,
+  "Accept or Reject": "Yes",
+  "isEscalationDone": true,
+  "isEscalationCycleComplete": true,
+  "dispositionBy": "team_lead_user",
+  "dispositionByRole": "TEAM LEAD",
+  "dataTableID": "45503e0b-8efa-4608-b435-8feb5dc5af01"
+},
+{
+  "_id": "d56adcc9-5645-4502-8a97-e2ac4a84bbd0",
+  "evaluationID": "2957c615-ac76-46c0-8256-08905d6856ee",
+  "tansUniqueId": 61,
+  "stageID": "61",
+  "stageName": "Escalation Stage",
+  "processID": "18",
+  "subProcessID": "18",
+  "subSubProcess": "22",
+  "submittedBy": "qa1",
+  "submittedByRole": "QA",
+  "submittedDateTime": {
+    "$date": "2024-12-24T18:08:06.000Z"
+  },
+  "sectionA": {
+    "Customer's Name": "Bhuvana",
+    "Trans Unique Id": "61"
+  },
+  "sectionB": [
+    {
+      "Block 1": {
+        "block_name": "Block Name_1",
+        "State": "Karnataka",
+        "City": "mumbai",
+        "Address": "asdasdasdas",
+        "Enquiry Date": "Jan. 1, 2025"
+      }
+    }
+  ],
+  "sectionC": [
+    {
+      "Tab 1": {
+        "structureType": "Normal",
+        "tabName": "e",
+        "tabWeightage": "",
+        "questionSetID": "222",
+        "question_answer": [
+          {
+            "questionID": "3823",
+            "question": "Enter your input",
+            "questionWeightage": "",
+            "answerID": 88731,
+            "answer": "25",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3824",
+            "question": "Gender",
+            "questionWeightage": "",
+            "answerID": "88733",
+            "answer": "Female",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3825",
+            "question": "Accept or Reject",
+            "questionWeightage": "",
+            "answerID": "",
+            "answer": "",
+            "answerWeightage": ""
+          }
+        ]
+      }
+    }
+  ],
+  "action": [],
+  "Disposition": {
+    "dispositionType": "AUTO",
+    "processID": "18",
+    "subProcessID": "18",
+    "subSubProcess": "22",
+    "stageID": "61",
+    "question_answer": [],
+    "AssignTo": null,
+    "Ticket_Status": null,
+    "To Stage Name": "Escalation Stage"
+  },
+  "AssignToFilters": {
+    "question_answer": []
+  },
+  "recording_id": [],
+  "sms_status": "",
+  "whatsapp_status": "",
+  "email_status": "",
+  "Audit_Started_On": {
+    "$date": "2024-12-24T18:07:47.558Z"
+  },
+  "AllocationMethod": "Normal Audit",
+  "Scheduler": {
+    "ScheduleTo": "",
+    "Filters": []
+  },
+  "ScheduleDate": "",
+  "ScheduleStartTime": "",
+  "ScheduleEndTime": "",
+  "ScheduleReason": "string",
+  "ClickToCall": {},
+  "GSMGateway": {},
+  "CloudPhone": {},
+  "Latitude": "",
+  "Longitude": "",
+  "AutoSMS": [],
+  "TicketId": "2024122311313014d7de",
+  "partialSaveId": "None",
+  "domainScoreDetails": {},
+  "Fatal_Status": false,
+  "scoreDetails": {
+    "ScorableValue": "0",
+    "ScoredValue": "0",
+    "AuditScore": "0"
+  },
+  "submittedrolid": 3,
+  "Audit_Details": {
+    "Audit_Created_By": "qa1",
+    "Sample_To": "QA",
+    "Audit_Started_On": {
+      "$date": "2024-12-24T18:07:47.558Z"
+    },
+    "Audit_Created_On": {
+      "$date": "2024-12-24T18:08:06.000Z"
+    },
+    "Audit_Evaluation_Duration": "00:00:18",
+    "DeletedStatus": false,
+    "Deleted_By": "",
+    "Deleted_On": "",
+    "level1_submittedBy": "qa1",
+    "level1_submittedRole": "QA",
+    "RoleMapping": {
+      "QA": "QA1",
+      "TEAM LEAD": "TEAM_LEAD_USER"
+    },
+    "PartialAuditDetails": {}
+  },
+  "isEscalationCycleComplete": false,
+  "isEscalationDone": true,
+  "dispositionBy": "",
+  "dispositionByRole": "",
+  "escalatedLevel": 1,
+  "escalationDispositionAnswerId": "-",
+  "escalationDisposition": "-",
+  "stageTransactionId": "d56adcc9-5645-4502-8a97-e2ac4a84bbd0",
+  "dataTableID": "d56adcc9-5645-4502-8a97-e2ac4a84bbd0"
+},
+{
+  "_id": "d3a35b2e-6e79-484d-949f-1d63dcbeab69",
+  "evaluationID": "2957c615-ac76-46c0-8256-08905d6856ee",
+  "stageID": "61",
+  "stageName": "Escalation Stage",
+  "processID": "18",
+  "subProcessID": "18",
+  "subSubProcess": "22",
+  "submittedBy": "team_lead_user",
+  "submittedByRole": "Team Lead",
+  "submittedDateTime": {
+    "$date": "2024-12-24T18:08:59.000Z"
+  },
+  "sectionA": {
+    "Customer's Name": "Bhuvana",
+    "Trans Unique Id": "61"
+  },
+  "sectionB": [
+    {
+      "Block 1": {
+        "block_name": "Block Name_1",
+        "State": "Karnataka",
+        "City": "mumbai",
+        "Address": "asdasdasdas",
+        "Enquiry Date": "Jan. 1, 2025"
+      }
+    }
+  ],
+  "sectionC": [
+    {
+      "Tab 1": {
+        "structureType": "Normal",
+        "tabName": "e",
+        "tabWeightage": "",
+        "questionSetID": "222",
+        "question_answer": [
+          {
+            "questionID": "3823",
+            "question": "Enter your input",
+            "questionWeightage": "",
+            "answerID": 88731,
+            "answer": "25",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3824",
+            "question": "Gender",
+            "questionWeightage": "",
+            "answerID": "88733",
+            "answer": "Female",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3825",
+            "question": "Accept or Reject",
+            "questionWeightage": "",
+            "answerID": "88735",
+            "answer": "No",
+            "answerWeightage": "",
+            "is_escalated": true
+          }
+        ]
+      }
+    }
+  ],
+  "action": [],
+  "scoreDetails": {
+    "ScorableValue": "0",
+    "ScoredValue": "0",
+    "AuditScore": "0"
+  },
+  "Audit_Details": {
+    "Audit_Created_By": "qa1",
+    "Sample_To": "QA",
+    "Audit_Started_On": "2024-12-24T18:07:47.558Z",
+    "Audit_Created_On": "2024-12-24T18:08:06Z",
+    "Audit_Evaluation_Duration": "00:00:18",
+    "DeletedStatus": false,
+    "Deleted_By": "",
+    "Deleted_On": "",
+    "level1_submittedBy": "qa1",
+    "level1_submittedRole": "QA",
+    "RoleMapping": {
+      "QA": "QA1",
+      "TEAM LEAD": "TEAM_LEAD_USER"
+    },
+    "PartialAuditDetails": {}
+  },
+  "domainScoreDetails": {},
+  "stageTransactionId": "d56adcc9-5645-4502-8a97-e2ac4a84bbd0",
+  "recording_id": [],
+  "submittedrolid": 8,
+  "escalationDispositionAnswerId": "88735",
+  "escalationDisposition": "NO",
+  "escalatedLevel": 2,
+  "Accept or Reject": "No",
+  "isEscalationDone": true,
+  "isEscalationCycleComplete": false,
+  "dispositionBy": "team_lead_user",
+  "dispositionByRole": "TEAM LEAD",
+  "dataTableID": "d3a35b2e-6e79-484d-949f-1d63dcbeab69"
+},
+{
+  "_id": "7d5bf90c-92fc-4b43-a8dc-b6cff4010640",
+  "evaluationID": "f6a0f229-18ef-48d4-a828-86e77e7787af",
+  "tansUniqueId": 61,
+  "stageID": "61",
+  "stageName": "Escalation Stage",
+  "processID": "18",
+  "subProcessID": "18",
+  "subSubProcess": "22",
+  "submittedBy": "qa1",
+  "submittedByRole": "QA",
+  "submittedDateTime": {
+    "$date": "2024-12-26T18:02:27.000Z"
+  },
+  "sectionA": {
+    "Customer's Name": "Bhuvana",
+    "Trans Unique Id": "61"
+  },
+  "sectionB": [
+    {
+      "Block 1": {
+        "block_name": "Block Name_1",
+        "State": "Karnataka",
+        "City": "mumbai",
+        "Address": "asdasdasdas",
+        "Enquiry Date": "Jan. 1, 2025"
+      }
+    }
+  ],
+  "sectionC": [
+    {
+      "Tab 1": {
+        "structureType": "Normal",
+        "tabName": "e",
+        "tabWeightage": "",
+        "questionSetID": "222",
+        "question_answer": [
+          {
+            "questionID": "3823",
+            "question": "Enter your input",
+            "questionWeightage": "",
+            "answerID": 88731,
+            "answer": "123456789",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3824",
+            "question": "Gender",
+            "questionWeightage": "",
+            "answerID": "88732",
+            "answer": "Male",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3825",
+            "question": "Accept or Reject",
+            "questionWeightage": "",
+            "answerID": "",
+            "answer": "",
+            "answerWeightage": ""
+          }
+        ]
+      }
+    }
+  ],
+  "action": [],
+  "Disposition": {
+    "dispositionType": "AUTO",
+    "processID": "18",
+    "subProcessID": "18",
+    "subSubProcess": "22",
+    "stageID": "61",
+    "question_answer": [],
+    "AssignTo": null,
+    "Ticket_Status": null,
+    "To Stage Name": "Escalation Stage"
+  },
+  "AssignToFilters": {
+    "question_answer": []
+  },
+  "recording_id": [],
+  "sms_status": "",
+  "whatsapp_status": "",
+  "email_status": "",
+  "Audit_Started_On": {
+    "$date": "2024-12-26T18:01:14.393Z"
+  },
+  "AllocationMethod": "Normal Audit",
+  "Scheduler": {
+    "ScheduleTo": "",
+    "Filters": []
+  },
+  "ScheduleDate": "",
+  "ScheduleStartTime": "",
+  "ScheduleEndTime": "",
+  "ScheduleReason": "string",
+  "ClickToCall": {},
+  "GSMGateway": {},
+  "CloudPhone": {},
+  "Latitude": "",
+  "Longitude": "",
+  "AutoSMS": [],
+  "TicketId": "2024122311313014d7de",
+  "partialSaveId": "None",
+  "domainScoreDetails": {},
+  "Fatal_Status": false,
+  "scoreDetails": {
+    "ScorableValue": "0",
+    "ScoredValue": "0",
+    "AuditScore": "0"
+  },
+  "submittedrolid": 3,
+  "Audit_Details": {
+    "Audit_Created_By": "qa1",
+    "Sample_To": "QA",
+    "Audit_Started_On": {
+      "$date": "2024-12-26T18:01:14.393Z"
+    },
+    "Audit_Created_On": {
+      "$date": "2024-12-26T18:02:27.000Z"
+    },
+    "Audit_Evaluation_Duration": "00:01:12",
+    "DeletedStatus": false,
+    "Deleted_By": "",
+    "Deleted_On": "",
+    "level1_submittedBy": "qa1",
+    "level1_submittedRole": "QA",
+    "RoleMapping": {
+      "QA": "QA1",
+      "TEAM LEAD": "TEAM_LEAD_USER"
+    },
+    "PartialAuditDetails": {}
+  },
+  "isEscalationCycleComplete": false,
+  "isEscalationDone": false,
+  "dispositionBy": "",
+  "dispositionByRole": "",
+  "escalatedLevel": 1,
+  "escalationDispositionAnswerId": "-",
+  "escalationDisposition": "-",
+  "stageTransactionId": "7d5bf90c-92fc-4b43-a8dc-b6cff4010640",
+  "dataTableID": "7d5bf90c-92fc-4b43-a8dc-b6cff4010640"
+},
+{
+  "_id": "adbb6427-977a-4f4c-a0d9-8c33b7c78e85",
+  "evaluationID": "5fa3c798-2415-41d2-8bc4-192071ff2ffa",
+  "tansUniqueId": 61,
+  "stageID": "61",
+  "stageName": "Escalation Stage",
+  "processID": "18",
+  "subProcessID": "18",
+  "subSubProcess": "22",
+  "submittedBy": "Capture_admin",
+  "submittedByRole": "SuperAdmin",
+  "submittedDateTime": {
+    "$date": "2025-01-06T17:10:49.000Z"
+  },
+  "sectionA": {},
+  "sectionB": [],
+  "sectionC": [
+    {
+      "Tab 1": {
+        "structureType": "Normal",
+        "tabName": "e",
+        "tabWeightage": "",
+        "questionSetID": "222",
+        "question_answer": [
+          {
+            "questionID": "3823",
+            "question": "Enter your input",
+            "questionWeightage": "",
+            "answerID": 88731,
+            "answer": "",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3824",
+            "question": "Gender",
+            "questionWeightage": "",
+            "answerID": "",
+            "answer": "",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3825",
+            "question": "Accept or Reject",
+            "questionWeightage": "",
+            "answerID": "",
+            "answer": "",
+            "answerWeightage": ""
+          }
+        ]
+      }
+    },
+    {
+      "Tab 2": {
+        "structureType": "Normal",
+        "tabName": "nn",
+        "tabWeightage": "",
+        "questionSetID": "232",
+        "question_answer": [
+          {
+            "questionID": "3848",
+            "question": "decimal",
+            "questionWeightage": "",
+            "answerID": 88777,
+            "answer": "11114235236.",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3849",
+            "question": "pan",
+            "questionWeightage": 1,
+            "answerID": 88778,
+            "answer": "",
+            "answerWeightage": ""
+          }
+        ]
+      }
+    }
+  ],
+  "action": [],
+  "Disposition": {
+    "dispositionType": "AUTO",
+    "processID": "18",
+    "subProcessID": "18",
+    "subSubProcess": "22",
+    "stageID": "61",
+    "question_answer": [],
+    "AssignTo": null,
+    "Ticket_Status": null,
+    "To Stage Name": "Escalation Stage"
+  },
+  "AssignToFilters": {
+    "question_answer": []
+  },
+  "recording_id": [],
+  "sms_status": "",
+  "whatsapp_status": "",
+  "email_status": "",
+  "Audit_Started_On": {
+    "$date": "2025-01-06T17:11:18.861Z"
+  },
+  "AllocationMethod": null,
+  "Scheduler": {
+    "ScheduleTo": "",
+    "Filters": []
+  },
+  "ScheduleDate": "",
+  "ScheduleStartTime": "",
+  "ScheduleEndTime": "",
+  "ScheduleReason": "string",
+  "ClickToCall": {},
+  "GSMGateway": {},
+  "CloudPhone": {},
+  "Latitude": "",
+  "Longitude": "",
+  "AutoSMS": [],
+  "TicketId": "",
+  "partialSaveId": "None",
+  "domainScoreDetails": {},
+  "Fatal_Status": false,
+  "scoreDetails": {
+    "ScorableValue": "1",
+    "ScoredValue": "0",
+    "AuditScore": "0"
+  },
+  "submittedrolid": 12,
+  "Audit_Details": {
+    "Audit_Created_By": "Capture_admin",
+    "Sample_To": "SuperAdmin",
+    "Audit_Started_On": {
+      "$date": "2025-01-06T17:11:18.861Z"
+    },
+    "Audit_Created_On": {
+      "$date": "2025-01-06T17:10:49.000Z"
+    },
+    "Audit_Evaluation_Duration": "00:00:29",
+    "DeletedStatus": false,
+    "Deleted_By": "",
+    "Deleted_On": "",
+    "level1_submittedBy": "Capture_admin",
+    "level1_submittedRole": "SuperAdmin",
+    "RoleMapping": {
+      "SUPERADMIN": "CAPTURE_ADMIN"
+    },
+    "PartialAuditDetails": {}
+  },
+  "isEscalationCycleComplete": false,
+  "isEscalationDone": false,
+  "dispositionBy": "",
+  "dispositionByRole": "",
+  "escalatedLevel": 1,
+  "escalationDispositionAnswerId": "-",
+  "escalationDisposition": "-",
+  "stageTransactionId": "adbb6427-977a-4f4c-a0d9-8c33b7c78e85",
+  "dataTableID": "adbb6427-977a-4f4c-a0d9-8c33b7c78e85"
+},
+{
+  "_id": "8d11baba-cf0e-4d86-b76e-217b3411aaf3",
+  "evaluationID": "5fa3c798-2415-41d2-8bc4-192071ff2ffa",
+  "tansUniqueId": 61,
+  "stageID": "61",
+  "stageName": "Escalation Stage",
+  "processID": "18",
+  "subProcessID": "18",
+  "subSubProcess": "22",
+  "submittedBy": "qa1",
+  "submittedByRole": "QA",
+  "submittedDateTime": {
+    "$date": "2025-01-09T18:24:03.000Z"
+  },
+  "sectionA": {
+    "Customer's Name": "Bhuvana",
+    "Trans Unique Id": "61"
+  },
+  "sectionB": [
+    {
+      "Block 1": {
+        "block_name": "Block Name_1",
+        "State": "Karnataka",
+        "City": "mumbai",
+        "Address": "asdasdasdas",
+        "Enquiry Date": "Jan. 1, 2025"
+      }
+    }
+  ],
+  "sectionC": [
+    {
+      "Tab 1": {
+        "structureType": "Normal",
+        "tabName": "e",
+        "tabWeightage": "",
+        "questionSetID": "222",
+        "question_answer": [
+          {
+            "questionID": "3823",
+            "question": "Enter your input",
+            "questionWeightage": "",
+            "answerID": 88731,
+            "answer": "123456789",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3824",
+            "question": "Gender",
+            "questionWeightage": "",
+            "answerID": "88732",
+            "answer": "Male",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3825",
+            "question": "Accept or Reject",
+            "questionWeightage": "",
+            "answerID": "",
+            "answer": "",
+            "answerWeightage": ""
+          }
+        ]
+      }
+    }
+  ],
+  "action": [],
+  "Disposition": {
+    "dispositionType": "Manual",
+    "processID": "18",
+    "subProcessID": "18",
+    "subSubProcess": "22",
+    "stageID": "61",
+    "question_answer": [],
+    "AssignTo": "",
+    "Ticket_Status": null,
+    "To Stage Name": "Escalation Stage"
+  },
+  "AssignToFilters": {
+    "question_answer": []
+  },
+  "recording_id": [],
+  "sms_status": "",
+  "whatsapp_status": "",
+  "email_status": "",
+  "Audit_Started_On": {
+    "$date": "2025-01-09T18:20:40.286Z"
+  },
+  "AllocationMethod": "Normal Audit",
+  "Scheduler": {
+    "ScheduleTo": "",
+    "Filters": []
+  },
+  "ScheduleDate": "",
+  "ScheduleStartTime": "",
+  "ScheduleEndTime": "",
+  "ScheduleReason": "string",
+  "ClickToCall": {},
+  "GSMGateway": {},
+  "CloudPhone": {},
+  "Latitude": "",
+  "Longitude": "",
+  "AutoSMS": [],
+  "TicketId": "2024122311313014d7de",
+  "partialSaveId": "None",
+  "domainScoreDetails": {},
+  "Fatal_Status": false,
+  "scoreDetails": {
+    "ScorableValue": "0",
+    "ScoredValue": "0",
+    "AuditScore": "0"
+  },
+  "submittedrolid": 3,
+  "Audit_Details": {
+    "Audit_Created_By": "qa1",
+    "Sample_To": "QA",
+    "Audit_Started_On": {
+      "$date": "2025-01-09T18:20:40.286Z"
+    },
+    "Audit_Created_On": {
+      "$date": "2025-01-09T18:24:03.000Z"
+    },
+    "Audit_Evaluation_Duration": "00:03:22",
+    "DeletedStatus": false,
+    "Deleted_By": "",
+    "Deleted_On": "",
+    "level1_submittedBy": "qa1",
+    "level1_submittedRole": "QA",
+    "RoleMapping": {
+      "QA": "QA1",
+      "TEAM LEAD": "TEAM_LEAD_USER"
+    },
+    "PartialAuditDetails": {}
+  },
+  "isEscalationCycleComplete": false,
+  "isEscalationDone": false,
+  "dispositionBy": "",
+  "dispositionByRole": "",
+  "escalatedLevel": 1,
+  "escalationDispositionAnswerId": "-",
+  "escalationDisposition": "-",
+  "stageTransactionId": "8d11baba-cf0e-4d86-b76e-217b3411aaf3",
+  "dataTableID": "8d11baba-cf0e-4d86-b76e-217b3411aaf3"
+},
+{
+  "_id": "829fc0b9-9a4a-4071-a0aa-09d02792c9d9",
+  "evaluationID": "e0ef74d8-a15b-45c9-b121-b90fce9a8b31",
+  "tansUniqueId": 63,
+  "stageID": "61",
+  "stageName": "Escalation Stage",
+  "processID": "18",
+  "subProcessID": "18",
+  "subSubProcess": "22",
+  "submittedBy": "qa1",
+  "submittedByRole": "QA",
+  "submittedDateTime": {
+    "$date": "2025-01-09T18:28:23.000Z"
+  },
+  "sectionA": {
+    "Customer's Name": "Ace",
+    "Trans Unique Id": "63"
+  },
+  "sectionB": [
+    {
+      "Block 1": {
+        "block_name": "Block Name_1",
+        "State": "Tamil Nadu",
+        "City": "Thanjavur",
+        "Address": "NA",
+        "Enquiry Date": "Jan. 9, 2025"
+      }
+    }
+  ],
+  "sectionC": [
+    {
+      "Tab 1": {
+        "structureType": "Normal",
+        "tabName": "e",
+        "tabWeightage": "",
+        "questionSetID": "222",
+        "question_answer": [
+          {
+            "questionID": "3823",
+            "question": "Enter your input",
+            "questionWeightage": "",
+            "answerID": 88731,
+            "answer": "12344555",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3824",
+            "question": "Gender",
+            "questionWeightage": "",
+            "answerID": "88732",
+            "answer": "Male",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3825",
+            "question": "Accept or Reject",
+            "questionWeightage": "",
+            "answerID": "",
+            "answer": "",
+            "answerWeightage": ""
+          }
+        ]
+      }
+    }
+  ],
+  "action": [],
+  "Disposition": {
+    "dispositionType": "AUTO",
+    "processID": "18",
+    "subProcessID": "18",
+    "subSubProcess": "22",
+    "stageID": "61",
+    "question_answer": [],
+    "AssignTo": null,
+    "Ticket_Status": null,
+    "To Stage Name": "Escalation Stage"
+  },
+  "AssignToFilters": {
+    "question_answer": []
+  },
+  "recording_id": [],
+  "sms_status": "",
+  "whatsapp_status": "",
+  "email_status": "",
+  "Audit_Started_On": {
+    "$date": "2025-01-09T18:26:51.501Z"
+  },
+  "AllocationMethod": "Auto",
+  "Scheduler": {
+    "ScheduleTo": "",
+    "Filters": []
+  },
+  "ScheduleDate": "",
+  "ScheduleStartTime": "",
+  "ScheduleEndTime": "",
+  "ScheduleReason": "string",
+  "ClickToCall": {},
+  "GSMGateway": {},
+  "CloudPhone": {},
+  "Latitude": "",
+  "Longitude": "",
+  "AutoSMS": [],
+  "TicketId": "20250109182810fdcb7b",
+  "partialSaveId": "None",
+  "domainScoreDetails": {},
+  "Fatal_Status": false,
+  "scoreDetails": {
+    "ScorableValue": "0",
+    "ScoredValue": "0",
+    "AuditScore": "0"
+  },
+  "submittedrolid": 3,
+  "Audit_Details": {
+    "Audit_Created_By": "qa1",
+    "Sample_To": "QA",
+    "Audit_Started_On": {
+      "$date": "2025-01-09T18:26:51.501Z"
+    },
+    "Audit_Created_On": {
+      "$date": "2025-01-09T18:28:23.000Z"
+    },
+    "Audit_Evaluation_Duration": "00:01:31",
+    "DeletedStatus": false,
+    "Deleted_By": "",
+    "Deleted_On": "",
+    "level1_submittedBy": "qa1",
+    "level1_submittedRole": "QA",
+    "RoleMapping": {
+      "QA": "QA1",
+      "TEAM LEAD": "TEAM_LEAD_USER"
+    },
+    "PartialAuditDetails": {}
+  },
+  "isEscalationCycleComplete": false,
+  "isEscalationDone": false,
+  "dispositionBy": "",
+  "dispositionByRole": "",
+  "escalatedLevel": 1,
+  "escalationDispositionAnswerId": "-",
+  "escalationDisposition": "-",
+  "stageTransactionId": "829fc0b9-9a4a-4071-a0aa-09d02792c9d9",
+  "dataTableID": "829fc0b9-9a4a-4071-a0aa-09d02792c9d9"
+},
+{
+  "_id": "c283072d-0c2e-457f-9e7f-4018850b6a3b",
+  "evaluationID": "0b7d594f-9644-40e7-bd02-3059594aa411",
+  "tansUniqueId": 66,
+  "stageID": "61",
+  "stageName": "Escalation Stage",
+  "processID": "18",
+  "subProcessID": "18",
+  "subSubProcess": "22",
+  "submittedBy": "qa1",
+  "submittedByRole": "QA",
+  "submittedDateTime": {
+    "$date": "2025-01-23T10:31:08.000Z"
+  },
+  "sectionA": {
+    "Customer's Name": "Nami",
+    "Trans Unique Id": "66"
+  },
+  "sectionB": [
+    {
+      "Block 1": {
+        "block_name": "Block Name_1",
+        "State": "Kerela",
+        "City": "del",
+        "Address": "test",
+        "Enquiry Date": "Jan. 7, 2025"
+      }
+    }
+  ],
+  "sectionC": [
+    {
+      "Tab 1": {
+        "structureType": "Normal",
+        "tabName": "e",
+        "tabWeightage": "",
+        "questionSetID": "222",
+        "question_answer": [
+          {
+            "questionID": "3823",
+            "question": "Enter your input",
+            "questionWeightage": "",
+            "answerID": 88731,
+            "answer": "123234234",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3824",
+            "question": "Gender",
+            "questionWeightage": "",
+            "answerID": "88732",
+            "answer": "Male",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3825",
+            "question": "Accept or Reject",
+            "questionWeightage": "",
+            "answerID": "",
+            "answer": "",
+            "answerWeightage": ""
+          }
+        ]
+      }
+    }
+  ],
+  "action": [],
+  "Disposition": {
+    "dispositionType": "AUTO",
+    "processID": "18",
+    "subProcessID": "18",
+    "subSubProcess": "22",
+    "stageID": "61",
+    "question_answer": [],
+    "AssignTo": null,
+    "Ticket_Status": null,
+    "To Stage Name": "Escalation Stage"
+  },
+  "AssignToFilters": {
+    "question_answer": []
+  },
+  "recording_id": [],
+  "sms_status": "",
+  "whatsapp_status": "",
+  "email_status": "",
+  "Audit_Started_On": {
+    "$date": "2025-01-23T10:29:23.412Z"
+  },
+  "AllocationMethod": "Auto",
+  "Scheduler": {
+    "ScheduleTo": "",
+    "Filters": []
+  },
+  "ScheduleDate": "",
+  "ScheduleStartTime": "",
+  "ScheduleEndTime": "",
+  "ScheduleReason": "string",
+  "ClickToCall": {},
+  "GSMGateway": {},
+  "CloudPhone": {},
+  "Latitude": "",
+  "Longitude": "",
+  "AutoSMS": [],
+  "TicketId": "20250123103101cf9817",
+  "partialSaveId": "None",
+  "domainScoreDetails": {},
+  "Fatal_Status": false,
+  "scoreDetails": {
+    "ScorableValue": "0",
+    "ScoredValue": "0",
+    "AuditScore": "0"
+  },
+  "submittedrolid": 3,
+  "Audit_Details": {
+    "Audit_Created_By": "qa1",
+    "Sample_To": "QA",
+    "Audit_Started_On": {
+      "$date": "2025-01-23T10:29:23.412Z"
+    },
+    "Audit_Created_On": {
+      "$date": "2025-01-23T10:31:08.000Z"
+    },
+    "Audit_Evaluation_Duration": "00:01:44",
+    "DeletedStatus": false,
+    "Deleted_By": "",
+    "Deleted_On": "",
+    "level1_submittedBy": "qa1",
+    "level1_submittedRole": "QA",
+    "RoleMapping": {
+      "QA": "QA1",
+      "TEAM LEAD": "TEAM_LEAD_USER"
+    },
+    "PartialAuditDetails": {}
+  },
+  "isEscalationCycleComplete": false,
+  "isEscalationDone": false,
+  "dispositionBy": "",
+  "dispositionByRole": "",
+  "escalatedLevel": 1,
+  "escalationDispositionAnswerId": "-",
+  "escalationDisposition": "-",
+  "stageTransactionId": "c283072d-0c2e-457f-9e7f-4018850b6a3b",
+  "dataTableID": "c283072d-0c2e-457f-9e7f-4018850b6a3b"
+},
+{
+  "_id": "b723cb2a-9c4a-46a0-9fd5-8f38a3f6b160",
+  "evaluationID": "0b7d594f-9644-40e7-bd02-3059594aa411",
+  "tansUniqueId": 66,
+  "stageID": "61",
+  "stageName": "Escalation Stage",
+  "processID": "18",
+  "subProcessID": "18",
+  "subSubProcess": "22",
+  "submittedBy": "qa1",
+  "submittedByRole": "QA",
+  "submittedDateTime": {
+    "$date": "2025-01-23T11:12:43.000Z"
+  },
+  "sectionA": {
+    "Customer's Name": "Nami",
+    "Trans Unique Id": "66"
+  },
+  "sectionB": [
+    {
+      "Block 1": {
+        "block_name": "Block Name_1",
+        "State": "Kerela",
+        "City": "del",
+        "Address": "test",
+        "Enquiry Date": "Jan. 7, 2025"
+      }
+    }
+  ],
+  "sectionC": [
+    {
+      "Tab 1": {
+        "structureType": "Normal",
+        "tabName": "e",
+        "tabWeightage": "",
+        "questionSetID": "222",
+        "question_answer": [
+          {
+            "questionID": "3823",
+            "question": "Enter your input",
+            "questionWeightage": "",
+            "answerID": 88731,
+            "answer": "123234234",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3824",
+            "question": "Gender",
+            "questionWeightage": "",
+            "answerID": "88732",
+            "answer": "Male",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3825",
+            "question": "Accept or Reject",
+            "questionWeightage": "",
+            "answerID": "",
+            "answer": "",
+            "answerWeightage": ""
+          }
+        ]
+      }
+    }
+  ],
+  "action": [],
+  "Disposition": {
+    "dispositionType": "AUTO",
+    "processID": "18",
+    "subProcessID": "18",
+    "subSubProcess": "22",
+    "stageID": "61",
+    "question_answer": [],
+    "AssignTo": null,
+    "Ticket_Status": null,
+    "To Stage Name": "Escalation Stage"
+  },
+  "AssignToFilters": {
+    "question_answer": []
+  },
+  "recording_id": [],
+  "sms_status": "",
+  "whatsapp_status": "",
+  "email_status": "",
+  "Audit_Started_On": {
+    "$date": "2025-01-23T10:29:23.412Z"
+  },
+  "AllocationMethod": "Auto",
+  "Scheduler": {
+    "ScheduleTo": "",
+    "Filters": []
+  },
+  "ScheduleDate": "",
+  "ScheduleStartTime": "",
+  "ScheduleEndTime": "",
+  "ScheduleReason": "string",
+  "ClickToCall": {},
+  "GSMGateway": {},
+  "CloudPhone": {},
+  "Latitude": "",
+  "Longitude": "",
+  "AutoSMS": [],
+  "TicketId": "20250123103101cf9817",
+  "partialSaveId": "None",
+  "domainScoreDetails": {},
+  "Fatal_Status": false,
+  "scoreDetails": {
+    "ScorableValue": "0",
+    "ScoredValue": "0",
+    "AuditScore": "0"
+  },
+  "submittedrolid": 3,
+  "Audit_Details": {
+    "Audit_Created_By": "qa1",
+    "Sample_To": "QA",
+    "Audit_Started_On": {
+      "$date": "2025-01-23T10:29:23.412Z"
+    },
+    "Audit_Created_On": {
+      "$date": "2025-01-23T11:12:43.000Z"
+    },
+    "Audit_Evaluation_Duration": "00:43:19",
+    "DeletedStatus": false,
+    "Deleted_By": "",
+    "Deleted_On": "",
+    "level1_submittedBy": "qa1",
+    "level1_submittedRole": "QA",
+    "RoleMapping": {
+      "QA": "QA1",
+      "TEAM LEAD": "TEAM_LEAD_USER"
+    },
+    "PartialAuditDetails": {}
+  },
+  "isEscalationCycleComplete": false,
+  "isEscalationDone": false,
+  "dispositionBy": "",
+  "dispositionByRole": "",
+  "escalatedLevel": 1,
+  "escalationDispositionAnswerId": "-",
+  "escalationDisposition": "-",
+  "stageTransactionId": "b723cb2a-9c4a-46a0-9fd5-8f38a3f6b160",
+  "dataTableID": "b723cb2a-9c4a-46a0-9fd5-8f38a3f6b160"
+},
+{
+  "_id": "c2bfe39e-2af6-4b75-81c4-f575777ae383",
+  "evaluationID": "0b7d594f-9644-40e7-bd02-3059594aa411",
+  "tansUniqueId": 66,
+  "stageID": "61",
+  "stageName": "Escalation Stage",
+  "processID": "18",
+  "subProcessID": "18",
+  "subSubProcess": "22",
+  "submittedBy": "qa1",
+  "submittedByRole": "QA",
+  "submittedDateTime": {
+    "$date": "2025-01-23T12:00:24.000Z"
+  },
+  "sectionA": {
+    "Customer's Name": "Nami",
+    "Trans Unique Id": "66"
+  },
+  "sectionB": [
+    {
+      "Block 1": {
+        "block_name": "Block Name_1",
+        "State": "Kerela",
+        "City": "del",
+        "Address": "test",
+        "Enquiry Date": "Jan. 7, 2025"
+      }
+    }
+  ],
+  "sectionC": [
+    {
+      "Tab 1": {
+        "structureType": "Normal",
+        "tabName": "e",
+        "tabWeightage": "",
+        "questionSetID": "222",
+        "question_answer": [
+          {
+            "questionID": "3823",
+            "question": "Enter your input",
+            "questionWeightage": "",
+            "answerID": 88731,
+            "answer": "123234234",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3824",
+            "question": "Gender",
+            "questionWeightage": "",
+            "answerID": "88732",
+            "answer": "Male",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3825",
+            "question": "Accept or Reject",
+            "questionWeightage": "",
+            "answerID": "",
+            "answer": "",
+            "answerWeightage": ""
+          }
+        ]
+      }
+    }
+  ],
+  "action": [],
+  "Disposition": {
+    "dispositionType": "AUTO",
+    "processID": "18",
+    "subProcessID": "18",
+    "subSubProcess": "22",
+    "stageID": "61",
+    "question_answer": [],
+    "AssignTo": null,
+    "Ticket_Status": null,
+    "To Stage Name": "Escalation Stage"
+  },
+  "AssignToFilters": {
+    "question_answer": []
+  },
+  "recording_id": [],
+  "sms_status": "",
+  "whatsapp_status": "",
+  "email_status": "",
+  "Audit_Started_On": {
+    "$date": "2025-01-23T10:29:23.412Z"
+  },
+  "AllocationMethod": "Auto",
+  "Scheduler": {
+    "ScheduleTo": "",
+    "Filters": []
+  },
+  "ScheduleDate": "",
+  "ScheduleStartTime": "",
+  "ScheduleEndTime": "",
+  "ScheduleReason": "string",
+  "ClickToCall": {},
+  "GSMGateway": {},
+  "CloudPhone": {},
+  "Latitude": "",
+  "Longitude": "",
+  "AutoSMS": [],
+  "TicketId": "20250123103101cf9817",
+  "partialSaveId": "None",
+  "domainScoreDetails": {},
+  "Fatal_Status": false,
+  "scoreDetails": {
+    "ScorableValue": "0",
+    "ScoredValue": "0",
+    "AuditScore": "0"
+  },
+  "submittedrolid": 3,
+  "Audit_Details": {
+    "Audit_Created_By": "qa1",
+    "Sample_To": "QA",
+    "Audit_Started_On": {
+      "$date": "2025-01-23T10:29:23.412Z"
+    },
+    "Audit_Created_On": {
+      "$date": "2025-01-23T12:00:24.000Z"
+    },
+    "Audit_Evaluation_Duration": "01:31:00",
+    "DeletedStatus": false,
+    "Deleted_By": "",
+    "Deleted_On": "",
+    "level1_submittedBy": "qa1",
+    "level1_submittedRole": "QA",
+    "RoleMapping": {
+      "QA": "QA1",
+      "TEAM LEAD": "TEAM_LEAD_USER"
+    },
+    "PartialAuditDetails": {}
+  },
+  "isEscalationCycleComplete": false,
+  "isEscalationDone": false,
+  "dispositionBy": "",
+  "dispositionByRole": "",
+  "escalatedLevel": 1,
+  "escalationDispositionAnswerId": "-",
+  "escalationDisposition": "-",
+  "stageTransactionId": "c2bfe39e-2af6-4b75-81c4-f575777ae383",
+  "dataTableID": "c2bfe39e-2af6-4b75-81c4-f575777ae383"
+},
+{
+  "_id": "c8410ead-04c5-4fe3-b47a-7952d5711bb0",
+  "evaluationID": "0b7d594f-9644-40e7-bd02-3059594aa411",
+  "tansUniqueId": 66,
+  "stageID": "61",
+  "stageName": "Escalation Stage",
+  "processID": "18",
+  "subProcessID": "18",
+  "subSubProcess": "22",
+  "submittedBy": "qa1",
+  "submittedByRole": "QA",
+  "submittedDateTime": {
+    "$date": "2025-01-23T12:10:43.000Z"
+  },
+  "sectionA": {
+    "Customer's Name": "Nami",
+    "Trans Unique Id": "66"
+  },
+  "sectionB": [
+    {
+      "Block 1": {
+        "block_name": "Block Name_1",
+        "State": "Kerela",
+        "City": "del",
+        "Address": "test",
+        "Enquiry Date": "Jan. 7, 2025"
+      }
+    }
+  ],
+  "sectionC": [
+    {
+      "Tab 1": {
+        "structureType": "Normal",
+        "tabName": "e",
+        "tabWeightage": "",
+        "questionSetID": "222",
+        "question_answer": [
+          {
+            "questionID": "3823",
+            "question": "Enter your input",
+            "questionWeightage": "",
+            "answerID": 88731,
+            "answer": "123234234",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3824",
+            "question": "Gender",
+            "questionWeightage": "",
+            "answerID": "88732",
+            "answer": "Male",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3825",
+            "question": "Accept or Reject",
+            "questionWeightage": "",
+            "answerID": "",
+            "answer": "",
+            "answerWeightage": ""
+          }
+        ]
+      }
+    }
+  ],
+  "action": [],
+  "Disposition": {
+    "dispositionType": "AUTO",
+    "processID": "18",
+    "subProcessID": "18",
+    "subSubProcess": "22",
+    "stageID": "61",
+    "question_answer": [],
+    "AssignTo": null,
+    "Ticket_Status": null,
+    "To Stage Name": "Escalation Stage"
+  },
+  "AssignToFilters": {
+    "question_answer": []
+  },
+  "recording_id": [],
+  "sms_status": "",
+  "whatsapp_status": "",
+  "email_status": "",
+  "Audit_Started_On": {
+    "$date": "2025-01-23T10:29:23.412Z"
+  },
+  "AllocationMethod": "Auto",
+  "Scheduler": {
+    "ScheduleTo": "",
+    "Filters": []
+  },
+  "ScheduleDate": "",
+  "ScheduleStartTime": "",
+  "ScheduleEndTime": "",
+  "ScheduleReason": "string",
+  "ClickToCall": {},
+  "GSMGateway": {},
+  "CloudPhone": {},
+  "Latitude": "",
+  "Longitude": "",
+  "AutoSMS": [],
+  "TicketId": "20250123103101cf9817",
+  "partialSaveId": "None",
+  "domainScoreDetails": {},
+  "Fatal_Status": false,
+  "scoreDetails": {
+    "ScorableValue": "0",
+    "ScoredValue": "0",
+    "AuditScore": "0"
+  },
+  "submittedrolid": 3,
+  "Audit_Details": {
+    "Audit_Created_By": "qa1",
+    "Sample_To": "QA",
+    "Audit_Started_On": {
+      "$date": "2025-01-23T10:29:23.412Z"
+    },
+    "Audit_Created_On": {
+      "$date": "2025-01-23T12:10:43.000Z"
+    },
+    "Audit_Evaluation_Duration": "01:41:19",
+    "DeletedStatus": false,
+    "Deleted_By": "",
+    "Deleted_On": "",
+    "level1_submittedBy": "qa1",
+    "level1_submittedRole": "QA",
+    "RoleMapping": {
+      "QA": "QA1",
+      "TEAM LEAD": "TEAM_LEAD_USER"
+    },
+    "PartialAuditDetails": {}
+  },
+  "isEscalationCycleComplete": false,
+  "isEscalationDone": false,
+  "dispositionBy": "",
+  "dispositionByRole": "",
+  "escalatedLevel": 1,
+  "escalationDispositionAnswerId": "-",
+  "escalationDisposition": "-",
+  "stageTransactionId": "c8410ead-04c5-4fe3-b47a-7952d5711bb0",
+  "dataTableID": "c8410ead-04c5-4fe3-b47a-7952d5711bb0"
+},
+{
+  "_id": "dcd260e2-fc3d-4a31-a1a2-b71aa2ad0f3e",
+  "evaluationID": "8e996b81-1ce7-4770-bf0f-a585825edec3",
+  "tansUniqueId": 66,
+  "stageID": "61",
+  "stageName": "Escalation Stage",
+  "processID": "18",
+  "subProcessID": "18",
+  "subSubProcess": "22",
+  "submittedBy": "qa1",
+  "submittedByRole": "QA",
+  "submittedDateTime": {
+    "$date": "2025-02-05T16:52:55.000Z"
+  },
+  "sectionA": {
+    "Customer's Name": "Nami",
+    "Trans Unique Id": "66"
+  },
+  "sectionB": [
+    {
+      "Block 1": {
+        "block_name": "Block Name_1",
+        "State": "Kerela",
+        "City": "del",
+        "Address": "test",
+        "Enquiry Date": "Jan. 7, 2025"
+      }
+    }
+  ],
+  "sectionC": [
+    {
+      "Tab 1": {
+        "structureType": "Normal",
+        "tabName": "e",
+        "tabWeightage": "",
+        "questionSetID": "222",
+        "question_answer": [
+          {
+            "questionID": "3823",
+            "question": "Enter your input",
+            "questionWeightage": "",
+            "answerID": 88731,
+            "answer": "4567890",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3824",
+            "question": "Gender",
+            "questionWeightage": "",
+            "answerID": "88732",
+            "answer": "Male",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3825",
+            "question": "Accept or Reject",
+            "questionWeightage": "",
+            "answerID": "",
+            "answer": "",
+            "answerWeightage": ""
+          }
+        ]
+      }
+    },
+    {
+      "Tab 1": {
+        "structureType": "Normal",
+        "tabName": "e",
+        "tabWeightage": "",
+        "questionSetID": "222",
+        "question_answer": [
+          {
+            "questionID": "3823",
+            "question": "Enter your input",
+            "questionWeightage": "",
+            "answerID": 88731,
+            "answer": "4567890",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3824",
+            "question": "Gender",
+            "questionWeightage": "",
+            "answerID": "88732",
+            "answer": "Male",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3825",
+            "question": "Accept or Reject",
+            "questionWeightage": "",
+            "answerID": "",
+            "answer": "",
+            "answerWeightage": ""
+          }
+        ]
+      }
+    }
+  ],
+  "action": [],
+  "Disposition": {
+    "dispositionType": "AUTO",
+    "processID": "18",
+    "subProcessID": "18",
+    "subSubProcess": "22",
+    "stageID": "61",
+    "question_answer": [],
+    "AssignTo": null,
+    "Ticket_Status": null,
+    "To Stage Name": "Escalation Stage"
+  },
+  "AssignToFilters": {
+    "question_answer": []
+  },
+  "recording_id": [],
+  "sms_status": "",
+  "whatsapp_status": "",
+  "email_status": "",
+  "Audit_Started_On": {
+    "$date": "2025-02-05T16:49:34.436Z"
+  },
+  "AllocationMethod": "Normal Audit",
+  "Scheduler": {
+    "ScheduleTo": "",
+    "Filters": []
+  },
+  "ScheduleDate": "",
+  "ScheduleStartTime": "",
+  "ScheduleEndTime": "",
+  "ScheduleReason": "string",
+  "ClickToCall": {},
+  "GSMGateway": {},
+  "CloudPhone": {},
+  "Latitude": "",
+  "Longitude": "",
+  "AutoSMS": [],
+  "TicketId": "20250123121044291ea0",
+  "partialSaveId": "None",
+  "domainScoreDetails": {},
+  "Fatal_Status": false,
+  "scoreDetails": {
+    "ScorableValue": "0",
+    "ScoredValue": "0",
+    "AuditScore": "0"
+  },
+  "submittedrolid": 3,
+  "Audit_Details": {
+    "Audit_Created_By": "qa1",
+    "Sample_To": "QA",
+    "Audit_Started_On": {
+      "$date": "2025-02-05T16:49:34.436Z"
+    },
+    "Audit_Created_On": {
+      "$date": "2025-02-05T16:52:55.000Z"
+    },
+    "Audit_Evaluation_Duration": "00:03:20",
+    "DeletedStatus": false,
+    "Deleted_By": "",
+    "Deleted_On": "",
+    "level1_submittedBy": "qa1",
+    "level1_submittedRole": "QA",
+    "RoleMapping": {
+      "QA": "QA1",
+      "TEAM LEAD": "TEAM_LEAD_USER"
+    },
+    "PartialAuditDetails": {}
+  },
+  "isEscalationCycleComplete": false,
+  "isEscalationDone": true,
+  "dispositionBy": "",
+  "dispositionByRole": "",
+  "escalatedLevel": 1,
+  "escalationDispositionAnswerId": "-",
+  "escalationDisposition": "-",
+  "stageTransactionId": "dcd260e2-fc3d-4a31-a1a2-b71aa2ad0f3e",
+  "dataTableID": "dcd260e2-fc3d-4a31-a1a2-b71aa2ad0f3e"
+},
+{
+  "_id": "9d80d5c4-c6c8-4b26-b581-c4b4c2933b17",
+  "evaluationID": "8e996b81-1ce7-4770-bf0f-a585825edec3",
+  "stageID": "61",
+  "tansUniqueId": null,
+  "stageName": "Escalation Stage",
+  "processID": "18",
+  "subProcessID": "18",
+  "subSubProcess": "22",
+  "submittedBy": "team_lead_user",
+  "submittedByRole": "Team Lead",
+  "submittedDateTime": {
+    "$date": "2025-02-05T16:54:16.000Z"
+  },
+  "sectionA": {
+    "Customer's Name": "Nami",
+    "Trans Unique Id": "66"
+  },
+  "sectionB": [
+    {
+      "Block 1": {
+        "block_name": "Block Name_1",
+        "State": "Kerela",
+        "City": "del",
+        "Address": "test",
+        "Enquiry Date": "Jan. 7, 2025"
+      }
+    }
+  ],
+  "sectionC": [
+    {
+      "Tab 1": {
+        "structureType": "Normal",
+        "tabName": "e",
+        "tabWeightage": "",
+        "questionSetID": "222",
+        "question_answer": [
+          {
+            "questionID": "3823",
+            "question": "Enter your input",
+            "questionWeightage": "",
+            "answerID": 88731,
+            "answer": "4567890",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3824",
+            "question": "Gender",
+            "questionWeightage": "",
+            "answerID": "88732",
+            "answer": "Male",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3825",
+            "question": "Accept or Reject",
+            "questionWeightage": "",
+            "answerID": "88735",
+            "answer": "No",
+            "answerWeightage": ""
+          }
+        ]
+      }
+    },
+    {
+      "Tab 1": {
+        "structureType": "Normal",
+        "tabName": "e",
+        "tabWeightage": "",
+        "questionSetID": "222",
+        "question_answer": [
+          {
+            "questionID": "3823",
+            "question": "Enter your input",
+            "questionWeightage": "",
+            "answerID": 88731,
+            "answer": "4567890",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3824",
+            "question": "Gender",
+            "questionWeightage": "",
+            "answerID": "88732",
+            "answer": "Male",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3825",
+            "question": "Accept or Reject",
+            "questionWeightage": "",
+            "answerID": "88735",
+            "answer": "No",
+            "answerWeightage": ""
+          }
+        ]
+      }
+    }
+  ],
+  "action": [],
+  "scoreDetails": {
+    "scorableValue": "0",
+    "scoredValue": "0",
+    "auditScore": "0"
+  },
+  "Audit_Details": {
+    "Audit_Created_By": "qa1",
+    "Sample_To": "QA",
+    "Audit_Started_On": "2025-02-05T16:49:34.436Z",
+    "Audit_Created_On": "2025-02-05T16:52:55Z",
+    "Audit_Evaluation_Duration": "00:03:20",
+    "DeletedStatus": false,
+    "Deleted_By": "",
+    "Deleted_On": "",
+    "level1_submittedBy": "qa1",
+    "level1_submittedRole": "QA",
+    "RoleMapping": {
+      "QA": "QA1",
+      "TEAM LEAD": "TEAM_LEAD_USER"
+    },
+    "PartialAuditDetails": {}
+  },
+  "domainScoreDetails": {},
+  "stageTransactionId": "dcd260e2-fc3d-4a31-a1a2-b71aa2ad0f3e",
+  "recording_id": [],
+  "Latitude": "",
+  "Longitude": "",
+  "AssignToFilters": {
+    "question_answer": []
+  },
+  "Audit_Started_On": "",
+  "TicketId": "20250123121044291ea0",
+  "submittedrolid": 8,
+  "escalationDispositionAnswerId": "",
+  "escalationDisposition": "",
+  "escalatedLevel": 2,
+  "isEscalationDone": false,
+  "isEscalationCycleComplete": false,
+  "dispositionBy": "team_lead_user",
+  "dispositionByRole": "TEAM LEAD",
+  "dataTableID": "9d80d5c4-c6c8-4b26-b581-c4b4c2933b17"
+},
+{
+  "_id": "94793f81-6fa2-427a-a27c-a04941118829",
+  "evaluationID": "2957c615-ac76-46c0-8256-08905d6856ee",
+  "stageID": "61",
+  "trans_unique_id": null,
+  "stageName": "Escalation Stage",
+  "processID": "18",
+  "subProcessID": "18",
+  "subSubProcess": "22",
+  "submittedBy": "qa1",
+  "submittedByRole": "QA",
+  "submittedDateTime": {
+    "$date": "2025-02-05T16:54:49.000Z"
+  },
+  "sectionA": {
+    "Customer's Name": "Bhuvana",
+    "Trans Unique Id": "61"
+  },
+  "sectionB": [
+    {
+      "Block 1": {
+        "block_name": "Block Name_1",
+        "State": "Karnataka",
+        "City": "mumbai",
+        "Address": "asdasdasdas",
+        "Enquiry Date": "Jan. 1, 2025"
+      }
+    }
+  ],
+  "sectionC": [
+    {
+      "Tab 1": {
+        "structureType": "Normal",
+        "tabName": "e",
+        "tabWeightage": "",
+        "questionSetID": "222",
+        "question_answer": [
+          {
+            "questionID": "3823",
+            "question": "Enter your input",
+            "questionWeightage": "",
+            "answerID": 88731,
+            "answer": "250000000000000000000000",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3824",
+            "question": "Gender",
+            "questionWeightage": "",
+            "answerID": "88733",
+            "answer": "Female",
+            "answerWeightage": ""
+          }
+        ]
+      }
+    },
+    {
+      "Tab 1": {
+        "structureType": "Normal",
+        "tabName": "e",
+        "tabWeightage": "",
+        "questionSetID": "222",
+        "question_answer": [
+          {
+            "questionID": "3823",
+            "question": "Enter your input",
+            "questionWeightage": "",
+            "answerID": 88731,
+            "answer": "250000000000000000000000",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3824",
+            "question": "Gender",
+            "questionWeightage": "",
+            "answerID": "88733",
+            "answer": "Female",
+            "answerWeightage": ""
+          }
+        ]
+      }
+    }
+  ],
+  "action": [],
+  "Audit_Details": {
+    "Audit_Created_By": "qa1",
+    "Sample_To": "QA",
+    "Audit_Started_On": "2024-12-24T18:07:47.558Z",
+    "Audit_Created_On": "2024-12-24T18:08:06Z",
+    "Audit_Evaluation_Duration": "00:00:18",
+    "DeletedStatus": false,
+    "Deleted_By": "",
+    "Deleted_On": "",
+    "level1_submittedBy": "qa1",
+    "level1_submittedRole": "QA",
+    "RoleMapping": {
+      "QA": "QA1",
+      "TEAM LEAD": "TEAM_LEAD_USER"
+    },
+    "PartialAuditDetails": {}
+  },
+  "Latitude": "",
+  "Longitude": "",
+  "stageTransactionId": "d56adcc9-5645-4502-8a97-e2ac4a84bbd0",
+  "recording_id": [],
+  "AssignToFilters": {
+    "question_answer": []
+  },
+  "Audit_Started_On": "2025-02-05T16:52:31.264Z",
+  "TicketId": "",
+  "domainScoreDetails": {},
+  "Fatal_Status": false,
+  "scoreDetails": {
+    "ScorableValue": "0",
+    "ScoredValue": "0",
+    "AuditScore": "0"
+  },
+  "submittedrolid": 3,
+  "isEscalationCycleComplete": false,
+  "escalatedLevel": 1,
+  "isEscalationDone": false,
+  "escalationDispositionAnswerId": "-",
+  "escalationDisposition": "-",
+  "dispositionBy": "qa1",
+  "dispositionByRole": "QA",
+  "dataTableID": "94793f81-6fa2-427a-a27c-a04941118829"
+},
+{
+  "_id": "b719d111-e8e5-48a0-aaf4-cb5eb8737a74",
+  "evaluationID": "f9f98b69-7d27-4118-a346-2bbb37445e22",
+  "tansUniqueId": 66,
+  "stageID": "61",
+  "stageName": "Escalation Stage",
+  "processID": "18",
+  "subProcessID": "18",
+  "subSubProcess": "22",
+  "submittedBy": "qa1",
+  "submittedByRole": "QA",
+  "submittedDateTime": {
+    "$date": "2025-02-10T16:01:04.000Z"
+  },
+  "sectionA": {
+    "Customer's Name": "Nami",
+    "Trans Unique Id": "66"
+  },
+  "sectionB": [
+    {
+      "Block 1": {
+        "block_name": "Block Name_1",
+        "State": "Kerela",
+        "City": "del",
+        "Address": "test",
+        "Enquiry Date": "Jan. 7, 2025"
+      }
+    }
+  ],
+  "sectionC": [
+    {
+      "Tab 1": {
+        "structureType": "Normal",
+        "tabName": "e",
+        "tabWeightage": "",
+        "questionSetID": "222",
+        "question_answer": [
+          {
+            "questionID": "3823",
+            "question": "Enter your input",
+            "questionWeightage": "",
+            "answerID": 88731,
+            "answer": "12312321",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3824",
+            "question": "Gender",
+            "questionWeightage": "",
+            "answerID": "88732",
+            "answer": "Male",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3825",
+            "question": "Accept or Reject",
+            "questionWeightage": "",
+            "answerID": "",
+            "answer": "",
+            "answerWeightage": ""
+          }
+        ]
+      }
+    },
+    {
+      "Tab 1": {
+        "structureType": "Normal",
+        "tabName": "e",
+        "tabWeightage": "",
+        "questionSetID": "222",
+        "question_answer": [
+          {
+            "questionID": "3823",
+            "question": "Enter your input",
+            "questionWeightage": "",
+            "answerID": 88731,
+            "answer": "12312321",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3824",
+            "question": "Gender",
+            "questionWeightage": "",
+            "answerID": "88732",
+            "answer": "Male",
+            "answerWeightage": ""
+          },
+          {
+            "questionID": "3825",
+            "question": "Accept or Reject",
+            "questionWeightage": "",
+            "answerID": "",
+            "answer": "",
+            "answerWeightage": ""
+          }
+        ]
+      }
+    }
+  ],
+  "action": [],
+  "Disposition": {
+    "dispositionType": "AUTO",
+    "processID": "18",
+    "subProcessID": "18",
+    "subSubProcess": "22",
+    "stageID": "61",
+    "question_answer": [],
+    "AssignTo": null,
+    "Ticket_Status": null,
+    "To Stage Name": "Escalation Stage"
+  },
+  "AssignToFilters": {
+    "question_answer": []
+  },
+  "recording_id": [],
+  "sms_status": "",
+  "whatsapp_status": "",
+  "email_status": "",
+  "Audit_Started_On": {
+    "$date": "2025-02-10T15:58:57.944Z"
+  },
+  "AllocationMethod": "Normal Audit",
+  "Scheduler": {
+    "ScheduleTo": "",
+    "Filters": []
+  },
+  "ScheduleDate": "",
+  "ScheduleStartTime": "",
+  "ScheduleEndTime": "",
+  "ScheduleReason": "string",
+  "ClickToCall": {},
+  "GSMGateway": {},
+  "CloudPhone": {},
+  "Latitude": "",
+  "Longitude": "",
+  "AutoSMS": [],
+  "TicketId": "202502051652565673df",
+  "partialSaveId": "None",
+  "domainScoreDetails": {},
+  "Fatal_Status": false,
+  "scoreDetails": {
+    "ScorableValue": "0",
+    "ScoredValue": "0",
+    "AuditScore": "0"
+  },
+  "submittedrolid": 3,
+  "Audit_Details": {
+    "Audit_Created_By": "qa1",
+    "Sample_To": "QA",
+    "Audit_Started_On": {
+      "$date": "2025-02-10T15:58:57.944Z"
+    },
+    "Audit_Created_On": {
+      "$date": "2025-02-10T16:01:04.000Z"
+    },
+    "Audit_Evaluation_Duration": "00:02:06",
+    "DeletedStatus": false,
+    "Deleted_By": "",
+    "Deleted_On": "",
+    "level1_submittedBy": "qa1",
+    "level1_submittedRole": "QA",
+    "RoleMapping": {
+      "QA": "QA1",
+      "TEAM LEAD": "TEAM_LEAD_USER"
+    },
+    "PartialAuditDetails": {}
+  },
+  "isEscalationCycleComplete": false,
+  "isEscalationDone": false,
+  "dispositionBy": "",
+  "dispositionByRole": "",
+  "escalatedLevel": 1,
+  "escalationDispositionAnswerId": "-",
+  "escalationDisposition": "-",
+  "stageTransactionId": "b719d111-e8e5-48a0-aaf4-cb5eb8737a74",
+  "dataTableID": "b719d111-e8e5-48a0-aaf4-cb5eb8737a74"
+}]
